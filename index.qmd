@@ -1,7 +1,7 @@
 ---
-title: "dmerullo.github.io"
+title: "About"
 ---
 
-This is a Quarto website.
+I am a research scientist experienced in data engineering, scientific computing, and informatics. My goal is to develop scalable, high-performance methods for translating novel data into functional resources. The main languages I use include R, Python, Julia, Bash, and SQL. For high-performance and cloud computing, I am familiar with Linux, GCP, and HDFS.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
