@@ -10,25 +10,25 @@ In my current role at a clinical research organization for a major pharmaceutica
 
 # Neural cell types and circuits for vocal learning in songbirds
 
-*at University of Texas Southwestern Medical Center in the [Roberts lab](https://labs.utsouthwestern.edu/roberts-lab) and [Konopka lab](https://konopkalab.org/)*
+*at University of Texas Southwestern Medical Center in the [Roberts lab](https://labs.utsouthwestern.edu/roberts-lab){target="_blank"} and [Konopka lab](https://konopkalab.org/){target="_blank"}*
 
 My post-doctoral research used comparative high-throughput transcriptomics to understand how the brain produces complex, learned behaviors like speech and language. These projects were the first to implement single-cell RNA sequencing in songbirds, establishing a template for the field from molecular to computational components, and the results have broad implications for understanding the genetic toolkits that neurons and circuits use to perform advanced computations.
 
 *Open-access links to publications:*
 
--   [(2021) Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136249/)
--   [(2021) Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird](https://doi.org/10.1038/s41467-021-22918-2)
+-   [(2021) Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136249/){target="_blank"}
+-   [(2021) Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird](https://doi.org/10.1038/s41467-021-22918-2){target="_blank"}
 
 # Neuromodulators of motivation and reward in vocal communication
 
-*at University of Wisconsin-Madison in the [Riters lab](https://integrativebiology.wisc.edu/staff/riters-lauren/)*
+*at University of Wisconsin-Madison in the [Riters lab](https://integrativebiology.wisc.edu/staff/riters-lauren/){target="_blank"}*
 
-My doctoral dissertation examined the neural control of vocal communication across contexts in songbirds. I identified neurotensin, a neuropeptide that strongly interacts with dopamine, as a potential modulator of context-specific vocalizations in songbirds. By establishing links between neurotensin and vocal communication for the first time, this research also contributed to a better understanding of this neuropeptide and the mechanisms of social behavior more generally.
+My doctoral dissertation examined the neural control of vocal communication across contexts in songbirds. I identified neurotensin, a neuropeptide involved in motivation and reward that strongly interacts with dopamine, as a potential modulator of context-specific vocalizations. By establishing links between neurotensin and vocal communication for the first time, this research also contributed to a better understanding of neurotensin's role in the regulation of social behavior more generally.
 
 *Open-access links to publications:*
 
--   [(2018) Neurotensin and neurotensin receptor 1 mRNA expression in song-control regions changes during development in male zebra finches.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6023781/)
--   [(2018) Co-localization patterns of neurotensin receptor 1 and tyrosine hydroxylase in brain regions involved in motivation and social behavior in male European starlings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924578/)
--   [(2016) Song in an affiliative context relates to the neural expression of dopamine- and neurotensin-related genes in male European starlings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5121024/)
--   [(2015) Neurotensin neural mRNA expression correlates with vocal communication and other highly-motivated social behaviors in male European starlings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586409/)
--   [(2015) Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (*Sturnus vulgaris*)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4361869/)
+-   [(2018) Neurotensin and neurotensin receptor 1 mRNA expression in song-control regions changes during development in male zebra finches](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6023781/){target="_blank"}
+-   [(2018) Co-localization patterns of neurotensin receptor 1 and tyrosine hydroxylase in brain regions involved in motivation and social behavior in male European starlings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924578/){target="_blank"}
+-   [(2016) Song in an affiliative context relates to the neural expression of dopamine- and neurotensin-related genes in male European starlings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5121024/){target="_blank"}
+-   [(2015) Neurotensin neural mRNA expression correlates with vocal communication and other highly-motivated social behaviors in male European starlings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586409/){target="_blank"}
+-   [(2015) Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (*Sturnus vulgaris*)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4361869/){target="_blank"}
