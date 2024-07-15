@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "dmerullo.github.io"
+  title: "Devin P. Merullo, Ph.D."
   navbar:
     left:
       - href: index.qmd
