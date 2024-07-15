@@ -10,6 +10,7 @@ website:
         text: About
       - projects.qmd
       - resume.qmd
+      - misc.qmd
       - contact.qmd
 
 format:
