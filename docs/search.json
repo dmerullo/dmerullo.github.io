@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "dmerullo.github.io",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a research scientist experienced in data engineering, scientific computing, and informatics. My goal is to develop scalable, high-performance methods for translating novel data into functional resources. The main languages I use include R, Python, Julia, Bash, and SQL. For high-performance and cloud computing, I am familiar with Linux, GCP, and HDFS."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "These are some test projects."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "This is a test resume."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "This is a test contact page."
   }
 ]
