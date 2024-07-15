@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-# Genomic biomarkers
+# Biomarkers and genomic medicine
 
 *at Parexel International*
 

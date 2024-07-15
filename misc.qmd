@@ -1,5 +1,5 @@
 ---
-title: "Miscellaneous"
+title: "Misc."
 ---
 
-This is a test misc page. 
+This is a test miscellaneous page. 
