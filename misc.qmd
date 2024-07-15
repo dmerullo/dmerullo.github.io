@@ -1,3 +1,5 @@
 ---
-title: "Misc."
+title: "Miscellaneous"
 ---
+
+This is a test misc page. 
