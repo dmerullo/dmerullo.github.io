@@ -14,7 +14,7 @@ In my current role at a clinical research organization for a major pharmaceutica
 -   Update genomic coordinates for rsIDs from older builds of dbSNP
 -   Generate custom entity flat files for xQTL studies
 
-# Neural cell types and circuits for vocal learning in songbirds
+# Neural cell types and circuits for vocal learning
 
 *at University of Texas Southwestern Medical Center in the [Roberts lab](https://labs.utsouthwestern.edu/roberts-lab){target="_blank"} and [Konopka lab](https://konopkalab.org/){target="_blank"}*
 
