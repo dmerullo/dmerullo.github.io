@@ -3,7 +3,3 @@ title: "Contact"
 ---
 
 This is a test contact page.
-
-![](files/resume.pdf){fig-align="center"}
-
-<embed src="https://dmerullo.github.io/files/resume.pdf" width="100%"/>

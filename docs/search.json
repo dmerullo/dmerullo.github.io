@@ -4,7 +4,7 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "This is a test resume."
+    "text": "{fig-align=“center” width=“100%” height = “100%”}"
   },
   {
     "objectID": "contact.html",
