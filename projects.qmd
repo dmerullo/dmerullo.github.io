@@ -8,6 +8,12 @@ title: "Projects"
 
 In my current role at a clinical research organization for a major pharmaceutical client, I perform data ingestion and develop ETL pipelines for genomic sequencing datasets (GWAS & xQTL) from clinical study populations to identify specific variations in the genome that may relate to disease and illness. As part of the biomarkers and genomic medicine team, I'm a link between the scientific analysts who require efficient management of this data at scale, and the data scientists/engineers who lack familiarity with bioinformatics methods and resources.
 
+*Examples of tools created for internal client use:*
+
+-   Lift over genomic regions from datasets on human genome build 37 to build 38
+-   Update genomic coordinates for rsIDs from older builds of dbSNP
+-   Generate custom entity flat files for xQTL studies
+
 # Neural cell types and circuits for vocal learning in songbirds
 
 *at University of Texas Southwestern Medical Center in the [Roberts lab](https://labs.utsouthwestern.edu/roberts-lab){target="_blank"} and [Konopka lab](https://konopkalab.org/){target="_blank"}*

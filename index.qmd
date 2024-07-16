@@ -8,4 +8,4 @@ In my current role at a clinical research organization for a major pharmaceutica
 
 For my PhD and postdoctoral research in neuroscience, I used techniques from molecular biology and bioinformatics to understand how the brain produces complex, learned behaviors like speech and language.
 
-See the [Contact](https://dmerullo.github.io/contact.html){target="_blank"} page to get in touch!
+*Made with [Quarto and Github Pages](https://quarto.org/docs/publishing/github-pages.html).*
