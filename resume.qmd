@@ -2,5 +2,5 @@
 title: "Resume"
 ---
 
-<embed src="https://dmerullo.github.io/files/resume.pdf" type="application/pdf" width="100% />
+<embed src="https://dmerullo.github.io/files/resume.pdf" type="application/pdf" />
 
