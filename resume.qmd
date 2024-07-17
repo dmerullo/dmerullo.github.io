@@ -1,5 +1,54 @@
 ---
 title: "Resume"
+format: 
+  html:
+    links: link-external-newwindow
 ---
 
-![](files/resume.pdf){fig-align="center" width="100%" height=800}
+[Open as PDF in new tab](files/resume.pdf)
+
+# Education
+
+***
+
+**2018** Ph.D., Zoology <br>
+University of Wisconsin-Madison (Madison, WI, USA)
+
+**2013** B.S., Biopsychology (*cum laude*) <br>
+Tufts University (Medford, MA, USA)
+
+# Employment
+
+***
+
+**Senior Scientist Bioinformatics, Biomarkers & Genomic Medicine** (Jan. 2022--Present) <br>
+*Parexel International (Remote from Dallas, TX, USA)* 
+
+- Perform ETL for large bioinformatics files at scale
+- Develop data ingestion pipelines for genomic sequencing datasets (GWAS & xQTL). Some examples of tools created for a major pharmaceutical client:
+  - Lift over genomic regions from datasets on human genome build 37 to build 38
+  - Update genomic coordinates for rsIDs from older builds of dbSNP
+  - Generate custom entity flat files for xQTL studies
+- Define and implement quality control of raw data and metadata
+
+**Postdoctoral Researcher, Department of Neuroscience** (Jun. 2018--Jan. 2022) <br>
+*University of Texas Southwestern Medical Center (Dallas, TX, USA)*
+
+- Implemented single-cell transcriptomics (10X Genomics Chromium) in songbirds, from molecular to computational components 
+- Published co-first-author paper in Science, second-author paper in Nature Communications, and received an NIH Postdoctoral Fellowship (NRSA F32)
+  - Colquitt, B. M.\*, <strong>Merullo, D. P.\*</strong>, et al. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. *Science*, 371(6530), eabd9704.
+  - Xiao, L., **Merullo, D. P.**, et al. (2021). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. *Nature Communications*, 12(1), 2617.
+
+# Technical Skills
+
+| | |
+| -- | ----- |
+| **Languages**: | R, Python, Julia, Bash, SQL, Git, Markdown, LaTeX |
+|**HPC/Cloud Environments:** | Linux, GCP, HDFS |
+| **Bioinformatics:** | GWAS, xQTL, single-cell RNA sequencing, spatial transcriptomics, clustering (UMAP/tSNE), differential expression tests, linear regression |
+
+: {.borderless}
+
+
+
+
