@@ -36,7 +36,7 @@ Tufts University (Medford, MA, USA)
 
 - Implemented single-cell transcriptomics (10X Genomics Chromium) in songbirds, from molecular to computational components 
 - Published co-first-author paper in Science, second-author paper in Nature Communications, and received an NIH Postdoctoral Fellowship (NRSA F32)
-  - Colquitt, B. M.\*, <strong>Merullo, D. P.\*</strong>, et al. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. *Science*, 371(6530), eabd9704.
+  - Colquitt, B. M.\*, <strong>Merullo, D. P.\*</strong>, et al. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. *Science*, 371(6530), eabd9704. *co-first author
   - Xiao, L., **Merullo, D. P.**, et al. (2021). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. *Nature Communications*, 12(1), 2617.
 
 # Technical Skills
