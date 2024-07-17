@@ -1,11 +1,8 @@
 ---
 title: "Resume"
-format: 
-  html:
-    links: link-external-newwindow
 ---
 
-[Open as PDF in new tab](files/resume.pdf)
+[Open as PDF in new tab](files/resume.pdf){target="_blank"}
 
 # Education
 
