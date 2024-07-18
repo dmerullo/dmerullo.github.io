@@ -8,17 +8,17 @@ title: "Resume"
 
 ***
 
-**2018** Ph.D., Zoology <br>
+**2018** Ph.D., Zoology \
 University of Wisconsin-Madison (Madison, WI, USA)
 
-**2013** B.S., Biopsychology (*cum laude*) <br>
+**2013** B.S., Biopsychology (*cum laude*)
 Tufts University (Medford, MA, USA)
 
 # Employment
 
 ***
 
-**Senior Scientist Bioinformatics, Biomarkers & Genomic Medicine** (Jan. 2022--Present) <br>
+**Senior Scientist Bioinformatics, Biomarkers & Genomic Medicine** (Jan. 2022--Present) \
 *Parexel International (Remote from Dallas, TX, USA)* 
 
 - Perform ETL for large bioinformatics files at scale
@@ -28,7 +28,7 @@ Tufts University (Medford, MA, USA)
   - Generate custom entity flat files for xQTL studies
 - Define and implement quality control of raw data and metadata
 
-**Postdoctoral Researcher, Department of Neuroscience** (Jun. 2018--Jan. 2022) <br>
+**Postdoctoral Researcher, Department of Neuroscience** (Jun. 2018--Jan. 2022) \
 *University of Texas Southwestern Medical Center (Dallas, TX, USA)*
 
 - Implemented single-cell transcriptomics (10X Genomics Chromium) in songbirds, from molecular to computational components 
