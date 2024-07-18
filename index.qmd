@@ -10,6 +10,6 @@ For my PhD and postdoctoral research in neuroscience, I used techniques from mol
 
 {{< iconify carbon:email size=xl >}} dmerullo [at] gmail [dot] com\
 {{< iconify carbon:logo-linkedin size=xl >}} [linkedin.com/dmerullo](https://www.linkedin.com/in/dmerullo){target="_blank"} \
-{{< iconify carbon:logo-github size=xl >}} [github.com/dmerullo)](https://github.com/dmerullo){target="_blank"} \
+{{< iconify carbon:logo-github size=xl >}} [github.com/dmerullo](https://github.com/dmerullo){target="_blank"} \
 
 *Made with [Quarto and Github Pages](https://quarto.org/docs/publishing/github-pages.html){target="_blank"}*
