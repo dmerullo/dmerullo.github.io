@@ -4,21 +4,7 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Open as PDF in new tab\n\nEducation\n\n2018 Ph.D., Zoology\nUniversity of Wisconsin-Madison (Madison, WI, USA)\n2013 B.S., Biopsychology (cum laude) Tufts University (Medford, MA, USA)\n\n\nEmployment\n\nSenior Scientist Bioinformatics, Biomarkers & Genomic Medicine (Jan. 2022–Present)\nParexel International (Remote from Dallas, TX, USA)\n\nPerform ETL for large bioinformatics files at scale\nDevelop data ingestion pipelines for genomic sequencing datasets (GWAS & xQTL). Some examples of tools created for a major pharmaceutical client:\n\nLift over genomic regions from datasets on human genome build 37 to build 38\nUpdate genomic coordinates for rsIDs from older builds of dbSNP\nGenerate custom entity flat files for xQTL studies\n\nDefine and implement quality control of raw data and metadata\n\nPostdoctoral Researcher, Department of Neuroscience (Jun. 2018–Jan. 2022)\nUniversity of Texas Southwestern Medical Center (Dallas, TX, USA)\n\nImplemented single-cell transcriptomics (10X Genomics Chromium) in songbirds, from molecular to computational components\nPublished co-first-author paper in Science, second-author paper in Nature Communications, and received an NIH Postdoctoral Fellowship (NRSA F32)\n\nColquitt, B. M.*, Merullo, D. P.*, et al. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. Science, 371(6530), eabd9704. *co-first author\nXiao, L., Merullo, D. P., et al. (2021). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. Nature Communications, 12(1), 2617.\n\n\n\n\nTechnical Skills\n\n\n\n\n\n\n\n\nLanguages:\nR, Python, Julia, Bash, SQL, Git, Markdown, LaTeX\n\n\nHPC/Cloud Environments:\nLinux, GCP, HDFS\n\n\nBioinformatics:\nGWAS, xQTL, single-cell RNA sequencing, spatial transcriptomics, clustering (UMAP/tSNE), differential expression tests, linear regression"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "This is a test contact page."
-  },
-  {
-    "objectID": "misc.html",
-    "href": "misc.html",
-    "title": "Misc.",
-    "section": "",
-    "text": "This is a test miscellaneous page."
+    "text": "Open as PDF in new tab\n\nEducation\n\n2018 Ph.D., Zoology\nUniversity of Wisconsin-Madison (Madison, WI, USA)\n2013 B.S., Biopsychology (cum laude)\nTufts University (Medford, MA, USA)\n\n\nEmployment\n\nSenior Scientist Bioinformatics, Biomarkers & Genomic Medicine (Jan. 2022–Present)\nParexel International (Remote from Dallas, TX, USA)\n\nPerform ETL for large bioinformatics files at scale\nDevelop data ingestion pipelines for genomic sequencing datasets (GWAS & xQTL). Some examples of tools created for a major pharmaceutical client:\n\nLift over genomic regions from datasets on human genome build 37 to build 38\nUpdate genomic coordinates for rsIDs from older builds of dbSNP\nGenerate custom entity flat files for xQTL studies\n\nDefine and implement quality control of raw data and metadata\n\nPostdoctoral Researcher, Department of Neuroscience (Jun. 2018–Jan. 2022)\nUniversity of Texas Southwestern Medical Center (Dallas, TX, USA)\n\nImplemented single-cell transcriptomics (10X Genomics Chromium) in songbirds, from molecular to computational components\nPublished co-first-author paper in Science, second-author paper in Nature Communications, and received an NIH Postdoctoral Fellowship (NRSA F32)\n\nColquitt, B. M.*, Merullo, D. P.*, et al. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. Science, 371(6530), eabd9704. *co-first author\nXiao, L., Merullo, D. P., et al. (2021). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. Nature Communications, 12(1), 2617.\n\n\n\n\nTechnical Skills\n\n\n\n\n\n\n\n\nLanguages:\nR, Python, Julia, Bash, SQL, Git, Markdown, LaTeX\n\n\nHPC/Cloud Environments:\nLinux, GCP, HDFS\n\n\nBioinformatics:\nGWAS, xQTL, single-cell RNA sequencing, spatial transcriptomics, clustering (UMAP/tSNE), differential expression tests, linear regression"
   },
   {
     "objectID": "index.html",
@@ -26,6 +12,13 @@
     "title": "About",
     "section": "",
     "text": "I am a research scientist experienced in data engineering, scientific computing, and informatics. My goal is to develop scalable, efficient methods for translating novel data into functional resources. The main languages I use include R, Python, Julia, Bash, and SQL. For high-performance and cloud computing, I am familiar with Linux, GCP, and HDFS.\nIn my current role at a clinical research organization for a major pharmaceutical client, I perform data ingestion and develop ETL pipelines for genomic sequencing datasets (GWAS & xQTL). As part of the biomarkers and genomic medicine team, I’m a link between the scientific analysts who require efficient management of this data at scale, and the data scientists/engineers who lack familiarity with bioinformatics methods and resources.\nFor my PhD and postdoctoral research in neuroscience, I used techniques from molecular biology and bioinformatics to understand how the brain produces complex, learned behaviors like speech and language.\n dmerullo [at] gmail [dot] com\n linkedin.com/dmerullo\n github.com/dmerullo\n\nMade with Quarto and Github Pages"
+  },
+  {
+    "objectID": "misc.html",
+    "href": "misc.html",
+    "title": "Misc.",
+    "section": "",
+    "text": "This is a test miscellaneous page."
   },
   {
     "objectID": "projects.html",

@@ -11,11 +11,10 @@ website:
       - projects.qmd
       - resume.qmd
       - misc.qmd
-      - contact.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
