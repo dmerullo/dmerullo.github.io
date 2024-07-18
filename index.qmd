@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![](files/picture.png){width="40%"}
+![](files/picture.png){fig-align="center" width="40%"}
 
 
 I am a research scientist experienced in data engineering, scientific computing, and informatics. My goal is to develop scalable, efficient methods for translating novel data into functional resources. The main languages I use include R, Python, Julia, Bash, and SQL. For high-performance and cloud computing, I am familiar with Linux, GCP, and HDFS.
