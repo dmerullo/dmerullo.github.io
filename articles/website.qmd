@@ -1,5 +1,6 @@
 ---
 title: "How I made this website"
+author: "Devin Merullo"
 date: today
 date-modified: last-modified
 date-format: iso
