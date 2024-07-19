@@ -2,6 +2,8 @@
 title: "Misc."
 listing:
   contents: articles
-  type: default
+  type: table
   sort: "date"
+  date-format: iso
+  categories: true
 ---
