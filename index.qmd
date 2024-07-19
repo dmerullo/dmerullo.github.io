@@ -5,7 +5,7 @@ title: "About"
 ![](files/picture.png){fig-align="center" width="40%"}
 
 
-I am a research scientist experienced in data engineering, scientific computing, and informatics. My goal is to develop scalable, efficient methods for translating novel data into functional resources. The main languages I use include R, Python, Julia, Bash, and SQL. For high-performance and cloud computing, I am familiar with Linux, GCP, and HDFS.
+I am a research scientist experienced in data engineering, scientific computing, and informatics. My goal is to develop scalable, high-performance methods for translating novel data into functional resources. The main languages I use include R, Python, Julia, Bash, and SQL.
 
 In my current role at a clinical research organization for a major pharmaceutical client, I perform data ingestion and develop ETL pipelines for genomic sequencing datasets (GWAS & xQTL). As part of the biomarkers and genomic medicine team, I'm a link between the scientific analysts who require efficient management of this data at scale, and the data scientists/engineers who lack familiarity with bioinformatics methods and resources.
 
@@ -13,6 +13,4 @@ For my PhD and postdoctoral research in neuroscience, I used techniques from mol
 
 {{< iconify carbon:email size=xl >}} dmerullo [at] gmail [dot] com\
 {{< iconify carbon:logo-linkedin size=xl >}} [linkedin.com/dmerullo](https://www.linkedin.com/in/dmerullo){target="_blank"} \
-{{< iconify carbon:logo-github size=xl >}} [github.com/dmerullo](https://github.com/dmerullo){target="_blank"} \
-
-*Made with [Quarto and Github Pages](https://quarto.org/docs/publishing/github-pages.html){target="_blank"}*
+{{< iconify carbon:logo-github size=xl >}} [github.com/dmerullo](https://github.com/dmerullo){target="_blank"}
