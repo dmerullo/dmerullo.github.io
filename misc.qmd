@@ -1,5 +1,7 @@
 ---
 title: "Misc."
+listing:
+  contents: articles
+  type: default
+  sort: "date"
 ---
-
-This is a test miscellaneous page. 
