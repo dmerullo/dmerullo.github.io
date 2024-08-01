@@ -2,8 +2,6 @@
 title: "Resume"
 ---
 
-[Open as PDF in new tab](files/resume.pdf){target="_blank"}
-
 # Education
 
 ***
