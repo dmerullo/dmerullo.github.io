@@ -18,14 +18,14 @@
     "href": "misc.html",
     "title": "Misc.",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n2024-08-01\n\n\nHow I made this website\n\n\nDevin Merullo\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\n2024-12-18\n\n\nHow I made this website\n\n\nDevin Merullo\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "I am a research scientist experienced in data science, data engineering, and scientific computing. My current specialty is developing scalable, high-performance methods for translating novel data into functional insights and resources. All of my projects have centrally involved topics like information, computation, and communication, which has lead to my interest in product development as a way to integrate data from diverse external sources into a cohesive framework to guide decisions and create solutions for problems in industry.\nThe main languages I use include R, Python, Julia, Bash, and SQL. For high-performance and cloud computing, I am familiar with Linux, GCP, and HDFS.\n dmerullo [at] protonmail [dot] com\n linkedin.com/dmerullo\n github.com/dmerullo"
+    "text": "I am a research scientist experienced in data science, data engineering, and scientific computing. My current specialty is developing scalable, high-performance methods for translating novel data into functional insights and resources. All of my projects have centered around topics like information, computation, and communication, and I view product development as a way to integrate data from diverse external sources into a cohesive framework to guide decisions and create solutions for complex problems.\nThe main languages I use include R, Python, Julia, Bash, and SQL. For high-performance and cloud computing, I am familiar with Linux, GCP, and HDFS.\n dmerullo [at] protonmail [dot] com\n linkedin.com/dmerullo\n github.com/dmerullo"
   },
   {
     "objectID": "projects.html",

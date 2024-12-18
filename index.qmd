@@ -9,7 +9,7 @@ text-align: justify}
 
 ![](files/picture.png){fig-align="center" width="40%"}
 
-I am a research scientist experienced in data science, data engineering, and scientific computing. My current specialty is developing scalable, high-performance methods for translating novel data into functional insights and resources. All of my projects have centrally involved topics like information, computation, and communication, which has lead to my interest in product development as a way to integrate data from diverse external sources into a cohesive framework to guide decisions and create solutions for problems in industry. 
+I am a research scientist experienced in data science, data engineering, and scientific computing. My current specialty is developing scalable, high-performance methods for translating novel data into functional insights and resources. All of my projects have centered around topics like information, computation, and communication, and I view product development as a way to integrate data from diverse external sources into a cohesive framework to guide decisions and create solutions for complex problems.
 
 The main languages I use include R, Python, Julia, Bash, and SQL. For high-performance and cloud computing, I am familiar with Linux, GCP, and HDFS.
 
