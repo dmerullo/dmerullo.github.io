@@ -113,9 +113,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
+  <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link active" data-scroll-target="#technical-skills">Technical Skills</a></li>
   <li><a href="#employment" id="toc-employment" class="nav-link" data-scroll-target="#employment">Employment</a></li>
-  <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link" data-scroll-target="#technical-skills">Technical Skills</a></li>
+  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
+  <li><a href="#external-projects" id="toc-external-projects" class="nav-link" data-scroll-target="#external-projects">External Projects</a></li>
+  <li><a href="#selected-publications" id="toc-selected-publications" class="nav-link" data-scroll-target="#selected-publications">Selected Publications</a></li>
   </ul>
 </nav>
     </div>
@@ -139,42 +141,10 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="education" class="level1">
-<h1>Education</h1>
 <hr>
-<p><strong>2018</strong> Ph.D., Zoology<br>
-University of Wisconsin-Madison (Madison, WI, USA)</p>
-<p><strong>2013</strong> B.S., Biopsychology (<em>cum laude</em>)<br>
-Tufts University (Medford, MA, USA)</p>
-</section>
-<section id="employment" class="level1">
-<h1>Employment</h1>
-<hr>
-<p><strong>Senior Scientist Bioinformatics, Biomarkers &amp; Genomic Medicine</strong> (Jan.&nbsp;2022–Present)<br>
-<em>Parexel International (Remote from Dallas, TX, USA)</em></p>
-<ul>
-<li>Perform ETL for large bioinformatics files at scale</li>
-<li>Develop data ingestion pipelines for genomic sequencing datasets (GWAS &amp; xQTL). Some examples of tools created for a major pharmaceutical client:
-<ul>
-<li>Lift over genomic regions from datasets on human genome build 37 to build 38</li>
-<li>Update genomic coordinates for rsIDs from older builds of dbSNP</li>
-<li>Generate custom entity flat files for xQTL studies</li>
-</ul></li>
-<li>Define and implement quality control of raw data and metadata</li>
-</ul>
-<p><strong>Postdoctoral Researcher, Department of Neuroscience</strong> (Jun.&nbsp;2018–Jan.&nbsp;2022)<br>
-<em>University of Texas Southwestern Medical Center (Dallas, TX, USA)</em></p>
-<ul>
-<li>Implemented single-cell transcriptomics (10X Genomics Chromium) in songbirds, from molecular to computational components</li>
-<li>Published co-first-author paper in Science, second-author paper in Nature Communications, and received an NIH Postdoctoral Fellowship (NRSA F32)
-<ul>
-<li>Colquitt, B. M.*, <strong>Merullo, D. P.*</strong>, et al.&nbsp;(2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. <em>Science</em>, 371(6530), eabd9704. *co-first author</li>
-<li>Xiao, L., <strong>Merullo, D. P.</strong>, et al.&nbsp;(2021). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. <em>Nature Communications</em>, 12(1), 2617.</li>
-</ul></li>
-</ul>
-</section>
-<section id="technical-skills" class="level1">
-<h1>Technical Skills</h1>
+<p><em>Research scientist skilled at translating large-scale data into functional insights using R, Python, and SQL</em></p>
+<section id="technical-skills" class="level3">
+<h3 class="anchored" data-anchor-id="technical-skills">Technical Skills</h3>
 <table class="table-borderless table">
 <caption></caption>
 <colgroup>
@@ -184,18 +154,78 @@ Tufts University (Medford, MA, USA)</p>
 <tbody>
 <tr class="odd">
 <td><strong>Languages</strong>:</td>
-<td>R, Python, Julia, Bash, SQL, Git, Markdown, LaTeX</td>
+<td>R, Python, SQL, Julia, Bash, Git, Markdown, LaTeX</td>
 </tr>
 <tr class="even">
+<td><strong>Packages/Libraries</strong>:</td>
+<td>tidyverse, ggplot2, shiny, quarto, pandas, NumPy, SciPy, Plotly Dash, Genie</td>
+</tr>
+<tr class="odd">
 <td><strong>HPC/Cloud Environments:</strong></td>
 <td>Linux, GCP, HDFS</td>
 </tr>
-<tr class="odd">
-<td><strong>Bioinformatics:</strong></td>
-<td>GWAS, xQTL, single-cell RNA sequencing, spatial transcriptomics, clustering (UMAP/tSNE), differential expression tests, linear regression</td>
-</tr>
 </tbody>
 </table>
+</section>
+<section id="employment" class="level3">
+<h3 class="anchored" data-anchor-id="employment">Employment</h3>
+<hr>
+<p><strong>Senior Scientist Bioinformatics, Biomarkers &amp; Genomic Medicine</strong> (Jan.&nbsp;2022–Present)<br>
+<em>Parexel International (Remote from Dallas, TX, USA)</em></p>
+<ul>
+<li>Perform ETL for external data into an internal database for a major pharmaceutical client</li>
+<li>Ingest hundreds of datasets at the scale of thousands of files and terabytes in size, driving novel biomarker discovery for drug development</li>
+<li>Develop data ingestion pipelines combining technical computing with subject matter expertise
+<ul>
+<li>Created a bioinformatics engineering tool that was accepted for poster presentation at the American Society of Human Genetics (ASHG)</li>
+</ul></li>
+<li>Define and conduct quality control of raw data and metadata</li>
+</ul>
+<p><strong>Postdoctoral Researcher, Department of Neuroscience</strong> (Jun.&nbsp;2018–Jan.&nbsp;2022)<br>
+<em>University of Texas Southwestern Medical Center (Hybrid from Dallas, TX, USA)</em></p>
+<ul>
+<li>First to perform single-cell RNA sequencing in songbirds, from molecular to computational components
+<ul>
+<li>Examined expression levels for 20,000 genes in 200,000+ individual cells across multiple brain regions, species, and cell types</li>
+<li>Analyses included clustering (UMAP/tSNE), principal components analysis, tree-based models, differential expression tests, and linear regression</li>
+<li>Created custom visualizations with ggplot2 for publication and presentation</li>
+</ul></li>
+<li>Published co-first-author paper in Science (130+ citations), a second-author paper in Nature Communications (25+ citations), and a co-authored review article with 300+ citations</li>
+<li>Received a competitive NIH Postdoctoral Fellowship (NRSA F32)</li>
+</ul>
+</section>
+<section id="education" class="level3">
+<h3 class="anchored" data-anchor-id="education">Education</h3>
+<hr>
+<p><strong>2018</strong> Ph.D., Zoology<br>
+University of Wisconsin-Madison (Madison, WI, USA)</p>
+<p><strong>2013</strong> B.S., Biopsychology (<em>cum laude</em>)<br>
+Tufts University (Medford, MA, USA)</p>
+</section>
+<section id="external-projects" class="level3">
+<h3 class="anchored" data-anchor-id="external-projects">External Projects</h3>
+<hr>
+<ul>
+<li>Project ESPAÑOL: An Exploration Of Spanish-language Poetry And Nuances Of Language
+<ul>
+<li>A method to develop custom learning plans for Spanish lessons by leveraging high-throughput analysis of Spanish-language poems in the public domain</li>
+<li>Used the R package <code>rvest</code> to scrape 10,000 classical poems from 200 authors covering 500 years, totaling 2.5 million words</li>
+<li>For example, sequencing and clustering analyses in Python of 10,500+ verb forms (for the 550+ most common verbs conjugated across 19 grammatical tenses) classifies poems by difficulty and guides targeted discovery for practice and testing</li>
+<li>Created a Plotly Dash application for exploring the dataset with interactive visualizations</li>
+</ul></li>
+</ul>
+</section>
+<section id="selected-publications" class="level3">
+<h3 class="anchored" data-anchor-id="selected-publications">Selected Publications</h3>
+<hr>
+<p>Colquitt, B. M.*, <strong>Merullo, D. P.*</strong>, Konopka, G., Roberts, T. F., &amp; Brainard, M. S. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. <em>Science</em>, 371(6530), eabd9704. <strong>*co-first author</strong></p>
+<p>Xiao, L., <strong>Merullo, D. P.</strong>, Koch, T. M. I., Cao, M., Co, M., Kulkarni, A., Konopka, G., &amp; Roberts, T. F. (2021). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. <em>Nature Communications</em>, 12(1), 2617.</p>
+<p>Kulkarni, A., Anderson, A. G., <strong>Merullo, D. P.</strong>, &amp; Konopka, G. (2019). Beyond bulk: A review of single cell transcriptomics methodologies and applications. <em>Current Opinion in Biotechnology</em>, 58, 129–136.</p>
+<p><strong>Merullo, D. P.</strong>, Asogwa, C. N., Sanchez-Valpuesta, M., Hayase, S., Pattnaik, B. R., Wada, K., &amp; Riters, L. V. (2018). Neurotensin and neurotensin receptor 1 mRNA expression in song-control regions changes during development in male zebra finches. <em>Developmental Neurobiology</em>, 78(7), 671–686.</p>
+<p><strong>Merullo, D. P.</strong>, Spool, J. A., Zhao, C., &amp; Riters, L. V. (2018). Co-localization patterns of neurotensin receptor 1 and tyrosine hydroxylase in brain regions involved in motivation and social behavior in male European starlings. <em>Journal of Chemical Neuroanatomy</em>, 89, 1–10.</p>
+<p><strong>Merullo, D. P.</strong>, Angyal, C. S., Stevenson, S. A., &amp; Riters, L. V. (2016). Song in an affiliative context relates to the neural expression of dopamine- and neurotensin-related genes in male European starlings. <em>Brain, Behavior and Evolution</em>, 88, 81–92.</p>
+<p><strong>Merullo, D. P.</strong>, Cordes, M. A., DeVries, M. S., Stevenson, S. A., &amp; Riters, L. V. (2015). Neurotensin neural mRNA expression correlates with vocal communication and other highly-motivated social behaviors in male European starlings. <em>Physiology and Behavior</em>, 151, 155–161.</p>
+<p><strong>Merullo, D. P.</strong>, Cordes, M. A., Stevenson, S. A., &amp; Riters, L. V. (2015). Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (Sturnus vulgaris). <em>Behavioural Brain Research</em>, 282, 133–143.</p>
 
 
 </section>

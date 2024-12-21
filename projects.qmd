@@ -2,6 +2,17 @@
 title: "Projects"
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
+***
+
+# Natural language and data science
+
+[Project ESPAÑOL](https://github.com/dmerullo/project-espanol){target="_blank"} is an application that leverages high-throughput analysis of Spanish-language poems in the public domain to create custom lesson plans and guide discovery of new texts for practice and study. The dataset contains 10,000 classical Spanish-language poems from 200 authors covering 500 years, totaling 2.5 million words. An unsupervised clustering algorithm in Python grouped the poems into 4 difficulty levels by analyzing the frequencies of 10,000+ verb forms conjugated across 18 grammatical tenses for the 550+ most common verbs. The full texts, metadata, and grammatical statistics can be accessed in an [interactive Plotly Dash application](http://dmerullo.pythonanywhere.com/){target="_blank"}. 
+
 # Biomarkers and genomic medicine
 
 *at [Parexel International](https://en.wikipedia.org/wiki/Parexel){target="_blank"}*

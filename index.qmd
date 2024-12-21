@@ -7,6 +7,8 @@ body {
 text-align: justify}
 </style>
 
+***
+
 ![](files/picture.png){fig-align="center" width="40%"}
 
 I am a research scientist experienced in data science, data engineering, and scientific computing. My current specialty is developing scalable, high-performance methods for translating novel data into functional insights and resources. All of my projects have centered around topics like information, computation, and communication, and I view product development as a way to integrate data from diverse external sources into a cohesive framework to guide decisions and create solutions for complex problems.
