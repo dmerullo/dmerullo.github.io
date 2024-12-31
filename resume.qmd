@@ -4,7 +4,7 @@ title: "Resume"
 
 ***
 
-*Research scientist skilled at translating large-scale data into functional insights using R, Python, and SQL*
+*Research scientist skilled at developing scalable, high-performance methods for translating novel data into functional insights and resources*
 
 ### Technical Skills
 
@@ -20,25 +20,24 @@ title: "Resume"
 
 ***
 
-**Senior Scientist Bioinformatics, Biomarkers & Genomic Medicine** (Jan. 2022--Present) \
-*Parexel International (Remote from Dallas, TX, USA)* 
+**Senior Scientist Bioinformatics** (Jan. 2022--Present) \
+**Parexel International** (Remote from Dallas, TX, USA) \
+*Clinical research organization with 20,000+ employees globally*
 
 - Perform ETL for external data into an internal database for a major pharmaceutical client
 - Ingest hundreds of datasets at the scale of thousands of files and terabytes in size, driving novel biomarker discovery for drug development
 - Develop data ingestion pipelines combining technical computing with subject matter expertise
-  - Created a bioinformatics engineering tool that was accepted for poster presentation at the American Society of Human Genetics (ASHG)
 - Define and conduct quality control of raw data and metadata
 
-**Postdoctoral Researcher, Department of Neuroscience** (Jun. 2018--Jan. 2022) \
-*University of Texas Southwestern Medical Center (Hybrid from Dallas, TX, USA)*
+**Postdoctoral Researcher** (Jun. 2018--Jan. 2022) \
+**University of Texas Southwestern Medical Center** (Hybrid from Dallas, TX, USA) \
+*Nationally-leading academic medical center with 500+ million dollars in annual research funding*
   
 - First to perform single-cell RNA sequencing in songbirds, from molecular to computational components
   - Examined expression levels for 20,000 genes in 200,000+ individual cells across multiple brain regions, species, and cell types
   - Analyses included clustering (UMAP/tSNE), principal components analysis, tree-based models, differential expression tests, and linear regression
-  - Created custom visualizations with ggplot2 for publication and presentation
 - Published co-first-author paper in Science (130+ citations), a second-author paper in Nature Communications (25+ citations), and a co-authored review article with 300+ citations
 - Received a competitive NIH Postdoctoral Fellowship (NRSA F32)
-
 
 ### Education
 
@@ -50,17 +49,18 @@ University of Wisconsin-Madison (Madison, WI, USA)
 **2013** B.S., Biopsychology (*cum laude*) \
 Tufts University (Medford, MA, USA)
 
-### External Projects
+### Independent Projects
 
 ***
 
-- Project ESPAÑOL: An Exploration Of Spanish-language Poetry And Nuances Of Language
-  - A method to develop custom learning plans for Spanish lessons by leveraging high-throughput analysis of Spanish-language poems in the public domain
-  - Used the R package `rvest` to scrape 10,000 classical poems from 200 authors covering 500 years, totaling 2.5 million words
-  - For example, sequencing and clustering analyses in Python of 10,500+ verb forms (for the 550+ most common verbs conjugated across 19 grammatical tenses) classifies poems by difficulty and guides targeted discovery for practice and testing
-  - Created a Plotly Dash application for exploring the dataset with interactive visualizations
+**Project ESPAÑOL** [(https://github.com/dmerullo/project-espanol)](https://github.com/dmerullo/project-espanol){target="_blank"} \
+*Application that leverages high-throughput analysis of classical Spanish-language poems to create custom lesson plans and guide discovery of new texts for practice and study*
+
+  - Used the R package `rvest` to scrape 10,000 Spanish-language poems in the public domain from 200 authors across 500 years, totaling 2.5 million words
+  - Performed an unsupervised clustering analysis in Python to group the poems into 4 difficulty levels by analyzing the frequencies of 10,000+ verb forms conjugated across 18 grammatical tenses for the 550+ most common verbs
+  - Created a Plotly Dash application for exploring the full texts, metadata, and grammatical statistics
   
-### Selected Publications
+### Selected Publications (600+ citations total)
 
 ***
 
