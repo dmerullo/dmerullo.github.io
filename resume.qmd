@@ -22,7 +22,7 @@ title: "Resume"
 
 **Senior Scientist Bioinformatics** (Jan. 2022--Present) \
 **Parexel International** (Remote from Dallas, TX, USA) \
-*Clinical research organization with 20,000+ employees globally*
+*Global clinical research organization with 20,000+ employees worldwide*
 
 - Perform ETL for external data into an internal database for a major pharmaceutical client
 - Ingest hundreds of datasets at the scale of thousands of files and terabytes in size, driving novel biomarker discovery for drug development
