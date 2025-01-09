@@ -1,0 +1,15 @@
+---
+title: "Project ESPAÑOL"
+author: "Devin Merullo"
+date: today
+date-modified: last-modified
+date-format: iso
+categories: 
+  - NLP
+  - data visualization
+  - web
+---
+
+This is a test.
+
+<iframe src="../files/fig_c.html" width="1000" height="800"></iframe>
