@@ -24,6 +24,10 @@ Figure 3. Number of authors grouped by nationality.
 
 <iframe src="../files/fig_d.html" width="1020" height="820"></iframe>
 
+Figure 4. Number of authors grouped by time period (century of birth).
+
+<iframe src="../files/fig_e.html" width="1020" height="420"></iframe>
+
 
 
 
