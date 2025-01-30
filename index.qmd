@@ -11,7 +11,7 @@ text-align: justify}
 
 ![](files/picture.png){fig-align="center" width="40%"}
 
-I am a research scientist with experience in a variety of projects across data science, data engineering, and scientific computing. My expertise includes developing scalable, high-performance methods for translating novel data into functional insights and resources. With a background in biomedical research in both industry and academia, I am also broadly interested in analytics and product development as a way to integrate data from diverse external sources into cohesive frameworks to guide decisions and create solutions. 
+I am a research scientist with experience in a variety of projects across data science, data analytics, and scientific computing. My expertise includes developing scalable, high-performance methods for translating novel data into functional insights and resources. With a background in biomedical research in both industry and academia, I am also broadly interested in analytics and product development as a way to integrate data from diverse external sources into cohesive frameworks to guide decisions and create solutions. 
 
 {{< iconify carbon:email size=xl >}} dmerullo [at] protonmail [dot] com\
 {{< iconify carbon:logo-linkedin size=xl >}} [linkedin.com/dmerullo](https://www.linkedin.com/in/dmerullo){target="_blank"} \
