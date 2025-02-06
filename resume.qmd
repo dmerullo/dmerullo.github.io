@@ -4,14 +4,24 @@ title: "Resume"
 
 ***
 
-*Research scientist skilled at developing scalable, high-performance methods for translating novel data into functional insights and resources*
+*Research scientist skilled at translating large-scale data into functional insights and resources by developing solutions across teams and disciplines*
+
+### Education
+
+***
+
+**2018** Ph.D., Integrative Biology \
+University of Wisconsin-Madison (Madison, WI, USA)
+
+**2013** B.S., Biopsychology (*cum laude*) \
+Tufts University (Medford, MA, USA)
 
 ### Technical Skills
 
 | | |
 | -- | ----- |
 | **Languages**: | R, Python, SQL, Julia, Bash, Git, Markdown, LaTeX |
-| **Packages/Libraries**: | tidyverse, ggplot2, shiny, quarto, pandas, NumPy, SciPy, Plotly Dash, Genie |
+| **Packages/Libraries**: | tidyverse, ggplot2, shiny, quarto, pandas, NumPy, SciPy, scikit-learn, Plotly, Dash, Genie |
 | **HPC/Cloud Environments:** | Linux, GCP, HDFS |
 
 : {.borderless}
@@ -24,30 +34,19 @@ title: "Resume"
 **Parexel International** (Remote from Dallas, TX, USA) \
 *Global clinical research organization with 20,000+ employees worldwide*
 
-- Perform ETL for external data into an internal database for a major pharmaceutical client
-- Ingest hundreds of datasets at the scale of thousands of files and terabytes in size, driving novel biomarker discovery for drug development
-- Develop data ingestion pipelines combining technical computing with subject matter expertise
-- Define and conduct quality control of raw data and metadata
+- Created novel data ingestion pipelines in R, Python, and Bash for a major pharmaceutical client (GSK) to reduce latency of data delivery by 10x
+- Delivered thousands of genomic datasets (GWAS & xQTL) scaling to terabytes in size, driving biomarker discovery for drug development across the bioinformatics and data engineering teams
+- Conducted high-throughput quality control of raw data and metadata for client turnaround in <24 hours
 
 **Postdoctoral Researcher** (Jun. 2018--Jan. 2022) \
 **University of Texas Southwestern Medical Center** (Hybrid from Dallas, TX, USA) \
-*Nationally-leading academic medical center with 500+ million dollars in annual research funding*
+*Nationally-leading academic medical center with $500 million+ annual funding*
   
-- First to perform single-cell RNA sequencing in songbirds, from molecular to computational components
-  - Examined expression levels for 20,000 genes in 200,000+ individual cells across multiple brain regions, species, and cell types
-  - Analyses included clustering (UMAP/tSNE), principal components analysis, tree-based models, differential expression tests, and linear regression
-- Published co-first-author paper in Science (130+ citations), a second-author paper in Nature Communications (25+ citations), and a co-authored review article with 300+ citations
+- First to publish single-cell RNA sequencing in songbirds, by leading a collaboration across multiple groups with distinct expertise
+  - Analyzed expression levels for 20,000 genes in 200,000+ individual cells covering multiple brain regions, species, and experiments
+  - Techniques included clustering (UMAP/tSNE), principal components analysis, tree-based models, differential expression tests, and linear regression
+- Published co-first-author paper in *Science* (130+ citations), a second-author paper in *Nature Communications* (25+ citations), and a co-authored review article with 300+ citations
 - Received a competitive NIH Postdoctoral Fellowship (NRSA F32)
-
-### Education
-
-***
-
-**2018** Ph.D., Zoology \
-University of Wisconsin-Madison (Madison, WI, USA)
-
-**2013** B.S., Biopsychology (*cum laude*) \
-Tufts University (Medford, MA, USA)
 
 ### Independent Projects
 
@@ -56,9 +55,9 @@ Tufts University (Medford, MA, USA)
 **Project ESPAÑOL** [(https://github.com/dmerullo/project-espanol)](https://github.com/dmerullo/project-espanol){target="_blank"} \
 *Application that leverages high-throughput analysis of classical Spanish-language poems to create custom lesson plans and guide discovery of new texts for practice and study*
 
-  - Used the R package `rvest` to scrape 10,000 Spanish-language poems in the public domain from 200 authors across 500 years, totaling 2.5 million words
-  - Performed an unsupervised clustering analysis in Python to group the poems into 4 difficulty levels by analyzing the frequencies of 10,000+ verb forms conjugated across 18 grammatical tenses for the 550+ most common verbs
-  - Created a Plotly Dash application for exploring the full texts, metadata, and grammatical statistics
+- Used the R package `rvest` to scrape 10,000 Spanish-language poems in the public domain from 200 authors across 500 years, totaling 2.5 million words
+- Performed an unsupervised clustering analysis in Python to group the poems into 4 difficulty levels by analyzing the frequencies of 10,000+ conjugated verb forms for the 550+ most common verbs
+- Created a Plotly Dash application for exploring the full texts, metadata, and grammatical statistics
   
 ### Selected Publications (600+ citations total)
 
@@ -79,9 +78,3 @@ Kulkarni, A., Anderson, A. G., **Merullo, D. P.**, & Konopka, G. (2019). Beyond 
 **Merullo, D. P.**, Cordes, M. A., DeVries, M. S., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin neural mRNA expression correlates with vocal communication and other highly-motivated social behaviors in male European starlings. *Physiology and Behavior*, 151, 155–161.
 
 **Merullo, D. P.**, Cordes, M. A., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (Sturnus vulgaris). *Behavioural Brain Research*, 282, 133–143. 
-
-
-
-
-
-

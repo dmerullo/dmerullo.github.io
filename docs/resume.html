@@ -113,9 +113,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link active" data-scroll-target="#technical-skills">Technical Skills</a></li>
+  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
+  <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link" data-scroll-target="#technical-skills">Technical Skills</a></li>
   <li><a href="#employment" id="toc-employment" class="nav-link" data-scroll-target="#employment">Employment</a></li>
-  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
   <li><a href="#independent-projects" id="toc-independent-projects" class="nav-link" data-scroll-target="#independent-projects">Independent Projects</a></li>
   <li><a href="#selected-publications-600-citations-total" id="toc-selected-publications-600-citations-total" class="nav-link" data-scroll-target="#selected-publications-600-citations-total">Selected Publications (600+ citations total)</a></li>
   </ul>
@@ -142,7 +142,15 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <hr>
-<p><em>Research scientist skilled at developing scalable, high-performance methods for translating novel data into functional insights and resources</em></p>
+<p><em>Research scientist skilled at translating large-scale data into functional insights and resources by developing solutions across teams and disciplines</em></p>
+<section id="education" class="level3">
+<h3 class="anchored" data-anchor-id="education">Education</h3>
+<hr>
+<p><strong>2018</strong> Ph.D., Integrative Biology<br>
+University of Wisconsin-Madison (Madison, WI, USA)</p>
+<p><strong>2013</strong> B.S., Biopsychology (<em>cum laude</em>)<br>
+Tufts University (Medford, MA, USA)</p>
+</section>
 <section id="technical-skills" class="level3">
 <h3 class="anchored" data-anchor-id="technical-skills">Technical Skills</h3>
 <table class="table-borderless table">
@@ -158,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td><strong>Packages/Libraries</strong>:</td>
-<td>tidyverse, ggplot2, shiny, quarto, pandas, NumPy, SciPy, Plotly Dash, Genie</td>
+<td>tidyverse, ggplot2, shiny, quarto, pandas, NumPy, SciPy, scikit-learn, Plotly, Dash, Genie</td>
 </tr>
 <tr class="odd">
 <td><strong>HPC/Cloud Environments:</strong></td>
@@ -174,31 +182,22 @@ ul.task-list li input[type="checkbox"] {
 <strong>Parexel International</strong> (Remote from Dallas, TX, USA)<br>
 <em>Global clinical research organization with 20,000+ employees worldwide</em></p>
 <ul>
-<li>Perform ETL for external data into an internal database for a major pharmaceutical client</li>
-<li>Ingest hundreds of datasets at the scale of thousands of files and terabytes in size, driving novel biomarker discovery for drug development</li>
-<li>Develop data ingestion pipelines combining technical computing with subject matter expertise</li>
-<li>Define and conduct quality control of raw data and metadata</li>
+<li>Created novel data ingestion pipelines in R, Python, and Bash for a major pharmaceutical client (GSK) to reduce latency of data delivery by 10x</li>
+<li>Delivered thousands of genomic datasets (GWAS &amp; xQTL) scaling to terabytes in size, driving biomarker discovery for drug development across the bioinformatics and data engineering teams</li>
+<li>Conducted high-throughput quality control of raw data and metadata for client turnaround in &lt;24 hours</li>
 </ul>
 <p><strong>Postdoctoral Researcher</strong> (Jun.&nbsp;2018–Jan.&nbsp;2022)<br>
 <strong>University of Texas Southwestern Medical Center</strong> (Hybrid from Dallas, TX, USA)<br>
-<em>Nationally-leading academic medical center with 500+ million dollars in annual research funding</em></p>
+<em>Nationally-leading academic medical center with $500 million+ annual funding</em></p>
 <ul>
-<li>First to perform single-cell RNA sequencing in songbirds, from molecular to computational components
+<li>First to publish single-cell RNA sequencing in songbirds, by leading a collaboration across multiple groups with distinct expertise
 <ul>
-<li>Examined expression levels for 20,000 genes in 200,000+ individual cells across multiple brain regions, species, and cell types</li>
-<li>Analyses included clustering (UMAP/tSNE), principal components analysis, tree-based models, differential expression tests, and linear regression</li>
+<li>Analyzed expression levels for 20,000 genes in 200,000+ individual cells covering multiple brain regions, species, and experiments</li>
+<li>Techniques included clustering (UMAP/tSNE), principal components analysis, tree-based models, differential expression tests, and linear regression</li>
 </ul></li>
-<li>Published co-first-author paper in Science (130+ citations), a second-author paper in Nature Communications (25+ citations), and a co-authored review article with 300+ citations</li>
+<li>Published co-first-author paper in <em>Science</em> (130+ citations), a second-author paper in <em>Nature Communications</em> (25+ citations), and a co-authored review article with 300+ citations</li>
 <li>Received a competitive NIH Postdoctoral Fellowship (NRSA F32)</li>
 </ul>
-</section>
-<section id="education" class="level3">
-<h3 class="anchored" data-anchor-id="education">Education</h3>
-<hr>
-<p><strong>2018</strong> Ph.D., Zoology<br>
-University of Wisconsin-Madison (Madison, WI, USA)</p>
-<p><strong>2013</strong> B.S., Biopsychology (<em>cum laude</em>)<br>
-Tufts University (Medford, MA, USA)</p>
 </section>
 <section id="independent-projects" class="level3">
 <h3 class="anchored" data-anchor-id="independent-projects">Independent Projects</h3>
@@ -207,7 +206,7 @@ Tufts University (Medford, MA, USA)</p>
 <em>Application that leverages high-throughput analysis of classical Spanish-language poems to create custom lesson plans and guide discovery of new texts for practice and study</em></p>
 <ul>
 <li>Used the R package <code>rvest</code> to scrape 10,000 Spanish-language poems in the public domain from 200 authors across 500 years, totaling 2.5 million words</li>
-<li>Performed an unsupervised clustering analysis in Python to group the poems into 4 difficulty levels by analyzing the frequencies of 10,000+ verb forms conjugated across 18 grammatical tenses for the 550+ most common verbs</li>
+<li>Performed an unsupervised clustering analysis in Python to group the poems into 4 difficulty levels by analyzing the frequencies of 10,000+ conjugated verb forms for the 550+ most common verbs</li>
 <li>Created a Plotly Dash application for exploring the full texts, metadata, and grammatical statistics</li>
 </ul>
 </section>
