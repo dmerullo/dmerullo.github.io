@@ -4,77 +4,61 @@ title: "Resume"
 
 ***
 
-*Research scientist skilled at translating large-scale data into functional insights and resources by developing solutions across teams and disciplines*
+### SUMMARY
 
-### Education
+Biomedical data scientist with a strong background in bioinformatics, data pipeline development, and next-generation sequencing (NGS). Proven track record in translating large-scale biological data into functional insights through scalable workflows, high-dimensional omics analyses, and interactive visualizations. Skilled at cross-functional collaboration and problem-solving, with expertise in data science and the life sciences.
 
-***
+### EDUCATION
 
-**2018** Ph.D., Integrative Biology \
-University of Wisconsin-Madison (Madison, WI, USA)
+- **Ph.D., Integrative Biology –** University of Wisconsin-Madison (2018)
+- **B.S., Biopsychology (*cum laude*) –** Tufts University (2013)
 
-**2013** B.S., Biopsychology (*cum laude*) \
-Tufts University (Medford, MA, USA)
+### TECHNICAL SKILLS
 
-### Technical Skills
+- **Programming:** R, Python, Bash, SQL, Julia, Git, Markdown, LaTeX
+- **NGS Analysis:** RNA-seq, single-cell sequencing, spatial transcriptomics, clustering (UMAP, tSNE), PCA, tree-based models, differential expression testing, linear regression, 10X Genomics Chromium, 10X Genomics Visium, Cell Ranger, Space Ranger, Seurat
+- **Libraries:** tidyverse, ggplot2, shiny, quarto, pandas, Numpy, SciPy, scikit-learn, Plotly, Dash
+- **HPC/Cloud Computing:** Linux, GCP, HDFS
 
-| | |
-| -- | ----- |
-| **Languages**: | R, Python, SQL, Julia, Bash, Git, Markdown, LaTeX |
-| **Packages/Libraries**: | tidyverse, ggplot2, shiny, quarto, pandas, NumPy, SciPy, scikit-learn, Plotly, Dash, Genie |
-| **HPC/Cloud Environments:** | Linux, GCP, HDFS |
+### EXPERIENCE
 
-: {.borderless}
+**Senior Bioinformatics Scientist** (Jan. 2022 – Present)\
+**Parexel International**  (Remote)
 
-### Employment
+- Reduce latency of data delivery by 10x for a major pharmaceutical client by creating novel data ingestion pipelines in R, Python, and Bash
+- Collaborate across the bioinformatics and data engineering teams to deliver thousands of genomic datasets (GWAS & xQTL) scaling to terabytes in size, driving biomarker discovery for drug development
+- Automate high-throughput quality control workflows to enable 24-hour client turnaround
 
-***
-
-**Senior Scientist Bioinformatics** (Jan. 2022--Present) \
-**Parexel International** (Remote from Dallas, TX, USA) \
-*Global clinical research organization with 20,000+ employees worldwide*
-
-- Created novel data ingestion pipelines in R, Python, and Bash for a major pharmaceutical client (GSK) to reduce latency of data delivery by 10x
-- Delivered thousands of genomic datasets (GWAS & xQTL) scaling to terabytes in size, driving biomarker discovery for drug development across the bioinformatics and data engineering teams
-- Conducted high-throughput quality control of raw data and metadata for client turnaround in <24 hours
-
-**Postdoctoral Researcher** (Jun. 2018--Jan. 2022) \
-**University of Texas Southwestern Medical Center** (Hybrid from Dallas, TX, USA) \
-*Nationally-leading academic medical center with $500 million+ annual funding*
+**Postdoctoral Researcher** (Jun. 2018 – Jan. 2022) \
+**University of Texas Southwestern Medical Center**  (Hybrid from Dallas, TX)
   
-- First to publish single-cell RNA sequencing in songbirds, by leading a collaboration across multiple groups with distinct expertise
-  - Analyzed expression levels for 20,000 genes in 200,000+ individual cells covering multiple brain regions, species, and experiments
-  - Techniques included clustering (UMAP/tSNE), principal components analysis, tree-based models, differential expression tests, and linear regression
+- Lead a multi-group collaboration to publish the first single-cell RNA-seq dataset in birds, resulting in novel technical and scientific advances
+- Conducted large-scale transcriptomics analyses of gene expression levels for 20,000+ genes in 200,000+ individual cells across multiple brain regions, species, and experiments
 - Published co-first-author paper in *Science* (130+ citations), a second-author paper in *Nature Communications* (25+ citations), and a co-authored review article with 300+ citations
-- Received a competitive NIH Postdoctoral Fellowship (NRSA F32)
+- Awarded a competitive NIH Postdoctoral Fellowship (NRSA F32)
 
-### Independent Projects
+### INDEPENDENT PROJECTS
 
-***
+**Project ESPAÑOL** [(https://github.com/dmerullo/project-espanol)](https://github.com/dmerullo/project-espanol){target="_blank"}
 
-**Project ESPAÑOL** [(https://github.com/dmerullo/project-espanol)](https://github.com/dmerullo/project-espanol){target="_blank"} \
-*Application that leverages high-throughput analysis of classical Spanish-language poems to create custom lesson plans and guide discovery of new texts for practice and study*
-
-- Used the R package `rvest` to scrape 10,000 Spanish-language poems in the public domain from 200 authors across 500 years, totaling 2.5 million words
-- Performed an unsupervised clustering analysis in Python to group the poems into 4 difficulty levels by analyzing the frequencies of 10,000+ conjugated verb forms for the 550+ most common verbs
-- Created a Plotly Dash application for exploring the full texts, metadata, and grammatical statistics
+- Generated a dataset of 10,000+ Spanish-language poems (>2.5 million words) using high-throughput web scraping (rvest)
+- Developed an unsupervised clustering pipeline in Python to classify poems into 4 difficultly levels based on verb usage
+- Built an interactive Plotly Dash web application for text exploration and visualization
   
-### Selected Publications (600+ citations total)
+### SELECTED PUBLICATIONS (600+ citations total)
 
-***
+- Colquitt, B. M.\*, <strong>Merullo, D. P.\*</strong>, Konopka, G., Roberts, T. F., & Brainard, M. S. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. *Science*, 371(6530), eabd9704. <strong>*co-first author</strong>
 
-Colquitt, B. M.\*, <strong>Merullo, D. P.\*</strong>, Konopka, G., Roberts, T. F., & Brainard, M. S. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. *Science*, 371(6530), eabd9704. <strong>*co-first author</strong>
+- Xiao, L., **Merullo, D. P.**, Koch, T. M. I., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts, T. F. (2021). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. *Nature Communications*, 12(1), 2617.
 
-Xiao, L., **Merullo, D. P.**, Koch, T. M. I., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts, T. F. (2021). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. *Nature Communications*, 12(1), 2617.
+- Kulkarni, A., Anderson, A. G., **Merullo, D. P.**, & Konopka, G. (2019). Beyond bulk: A review of single cell transcriptomics methodologies and applications. *Current Opinion in Biotechnology*, 58, 129–136.
 
-Kulkarni, A., Anderson, A. G., **Merullo, D. P.**, & Konopka, G. (2019). Beyond bulk: A review of single cell transcriptomics methodologies and applications. *Current Opinion in Biotechnology*, 58, 129–136.
+- **Merullo, D. P.**, Asogwa, C. N., Sanchez-Valpuesta, M., Hayase, S., Pattnaik, B. R., Wada, K., & Riters, L. V. (2018). Neurotensin and neurotensin receptor 1 mRNA expression in song-control regions changes during development in male zebra finches. *Developmental Neurobiology*, 78(7), 671–686.
 
-**Merullo, D. P.**, Asogwa, C. N., Sanchez-Valpuesta, M., Hayase, S., Pattnaik, B. R., Wada, K., & Riters, L. V. (2018). Neurotensin and neurotensin receptor 1 mRNA expression in song-control regions changes during development in male zebra finches. *Developmental Neurobiology*, 78(7), 671–686.
+- **Merullo, D. P.**, Spool, J. A., Zhao, C., & Riters, L. V. (2018). Co-localization patterns of neurotensin receptor 1 and tyrosine hydroxylase in brain regions involved in motivation and social behavior in male European starlings. *Journal of Chemical Neuroanatomy*, 89, 1–10.
 
-**Merullo, D. P.**, Spool, J. A., Zhao, C., & Riters, L. V. (2018). Co-localization patterns of neurotensin receptor 1 and tyrosine hydroxylase in brain regions involved in motivation and social behavior in male European starlings. *Journal of Chemical Neuroanatomy*, 89, 1–10.
+- **Merullo, D. P.**, Angyal, C. S., Stevenson, S. A., & Riters, L. V. (2016). Song in an affiliative context relates to the neural expression of dopamine- and neurotensin-related genes in male European starlings. *Brain, Behavior and Evolution*, 88, 81–92.
 
-**Merullo, D. P.**, Angyal, C. S., Stevenson, S. A., & Riters, L. V. (2016). Song in an affiliative context relates to the neural expression of dopamine- and neurotensin-related genes in male European starlings. *Brain, Behavior and Evolution*, 88, 81–92.
+- **Merullo, D. P.**, Cordes, M. A., DeVries, M. S., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin neural mRNA expression correlates with vocal communication and other highly-motivated social behaviors in male European starlings. *Physiology and Behavior*, 151, 155–161.
 
-**Merullo, D. P.**, Cordes, M. A., DeVries, M. S., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin neural mRNA expression correlates with vocal communication and other highly-motivated social behaviors in male European starlings. *Physiology and Behavior*, 151, 155–161.
-
-**Merullo, D. P.**, Cordes, M. A., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (Sturnus vulgaris). *Behavioural Brain Research*, 282, 133–143. 
+- **Merullo, D. P.**, Cordes, M. A., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (Sturnus vulgaris). *Behavioural Brain Research*, 282, 133–143. 

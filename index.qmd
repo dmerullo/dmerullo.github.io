@@ -11,7 +11,7 @@ text-align: justify}
 
 ![](files/picture.png){fig-align="center" width="40%"}
 
-I am a research scientist with experience in a variety of projects across data science, data analytics, and scientific computing. My expertise includes translating large-scale data into functional insights and resources by developing solutions across teams and disciplines. With a background in biomedical research in both industry and academia, I am also broadly interested in data-driven technologies and product development to guide decisions and solve complex problems. 
+I am a biomedical data scientist experienced in bioinformatics, data pipeline development, and next-generation sequencing (NGS). I specialize in translating large-scale biological data into functional insights through scalable workflows, high-dimensional omics analyses, and interactive visualizations. With expertise in data science and the life sciences, I collaborate across teams and disciplines to deliver data-driven solutions that guide decisions and solve complex problems.
 
 {{< iconify carbon:email size=xl >}} dmerullo [at] protonmail [dot] com\
 {{< iconify carbon:logo-linkedin size=xl >}} [linkedin.com/dmerullo](https://www.linkedin.com/in/dmerullo){target="_blank"} \
