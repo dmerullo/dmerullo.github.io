@@ -11,7 +11,7 @@ text-align: justify}
 
 ![](files/picture.png){fig-align="center" width="40%"}
 
-I am a biomedical data scientist experienced in bioinformatics, data pipeline development, and next-generation sequencing (NGS). I specialize in translating large-scale biological data into functional insights through scalable workflows, high-dimensional omics analyses, and interactive visualizations. With expertise in data science and the life sciences, I collaborate across teams and disciplines to deliver data-driven solutions that guide decisions and solve complex problems.
+I am a biomedical data scientist experienced in bioinformatics, data pipeline development, and next-generation sequencing (NGS). With expertise in data science and the life sciences, I collaborate across teams and disciplines to translate large-scale biological data into functional insights and solutions. My projects have incorporated genomic data integration, high-dimensional omics analyses, interactive visualizations, scalable HPC/cloud workflows, and AI/ML applications.
 
 {{< iconify carbon:email size=xl >}} dmerullo [at] protonmail [dot] com\
 {{< iconify carbon:logo-linkedin size=xl >}} [linkedin.com/dmerullo](https://www.linkedin.com/in/dmerullo){target="_blank"} \
