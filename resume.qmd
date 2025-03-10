@@ -6,7 +6,7 @@ title: "Resume"
 
 ### SUMMARY
 
-Biomedical data scientist experienced in bioinformatics, data pipeline development, and next-generation sequencing (NGS). Skilled at translating large-scale biological data into functional insights through genomic data integration, high-dimensional omics analyses, interactive visualizations, scalable HPC/cloud workflows, and AI/ML applications. With expertise in data science and the life science, excels in cross-functional collaboration and problem-solving.
+Biomedical data scientist experienced in bioinformatics, data pipeline development, and next-generation sequencing (NGS). Skilled at translating large-scale biological data into functional insights through genomic data integration, high-dimensional omics analyses, interactive visualizations, scalable HPC/cloud workflows, and AI/ML applications. With expertise in data science and the life sciences, excels at cross-functional collaboration and problem-solving.
 
 ### EDUCATION
 
