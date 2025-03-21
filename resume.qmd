@@ -32,10 +32,10 @@ Biomedical data scientist experienced in bioinformatics, data pipeline developme
 **Postdoctoral Researcher** (Jun. 2018 – Jan. 2022) \
 **University of Texas Southwestern Medical Center**  (Hybrid from Dallas, TX)
   
-- Lead a multi-group collaboration to publish the first single-cell RNA-seq dataset in birds, resulting in novel technical and scientific advances
+- Lead a multi-group collaboration to publish the first single-cell RNA-seq dataset in birds, resulting in a co-first-author paper in *Science* (130+ citations) and a second-author paper in *Nature Communications* (25+ citations)
 - Conducted large-scale transcriptomics analyses of gene expression levels for 20,000+ genes in 200,000+ individual cells across multiple brain regions, species, and experiments
-- Published co-first-author paper in *Science* (130+ citations), a second-author paper in *Nature Communications* (25+ citations), and a co-authored review article with 300+ citations
 - Awarded a competitive NIH Postdoctoral Fellowship (NRSA F32)
+- Implemented end-to-end spatial transcriptomics from molecular to computational components
 
 ### INDEPENDENT PROJECTS
 
