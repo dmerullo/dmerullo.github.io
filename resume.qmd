@@ -16,7 +16,7 @@ Biomedical data scientist experienced in bioinformatics, data pipeline developme
 ### TECHNICAL SKILLS
 
 - **Programming:** R, Python, Bash, SQL, Julia, Git, Markdown, LaTeX
-- **NGS Analysis:** RNA-seq, single-cell sequencing, spatial transcriptomics, clustering (UMAP, tSNE), PCA, tree-based models, differential expression testing, linear regression, 10X Genomics Chromium, 10X Genomics Visium, Cell Ranger, Space Ranger, Seurat
+- **NGS Analysis:** RNA-seq, single-cell sequencing, spatial transcriptomics, clustering (UMAP, tSNE), PCA, tree-based models, differential expression testing, linear mixed models, multiple linear regression, 10X Genomics Chromium, 10X Genomics Visium, Cell Ranger, Space Ranger, Seurat
 - **Libraries:** tidyverse, ggplot2, shiny, quarto, pandas, Numpy, SciPy, scikit-learn, Plotly, Dash
 - **HPC/Cloud Computing:** Linux, GCP, HDFS
 
