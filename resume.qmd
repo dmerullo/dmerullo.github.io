@@ -6,7 +6,7 @@ title: "Resume"
 
 ### SUMMARY
 
-Biomedical data scientist experienced in bioinformatics, data pipeline development, and high-dimensional analytics. Skilled at translating large-scale biological data into functional insights through genomic data integration, single-cell and spatial multi-omics, interactive visualizations, scalable HPC/cloud workflows, and AI/ML applications. With expertise in data science and the life sciences, excels at cross-functional collaboration and problem-solving.
+Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data pipeline development, and high-dimensional analytics. Experienced in next-generation sequencing analysis (bulk, single-cell, spatial), multi-omic data integration, scalable workflow automation, statistical modeling, and data visualization. Effective collaborator and communicator with a proven record of delivering results and solving complex bioinformatics challenges in industry settings.
 
 ### EDUCATION
 
@@ -25,17 +25,16 @@ Biomedical data scientist experienced in bioinformatics, data pipeline developme
 **Senior Bioinformatics Scientist** (Jan. 2022 – Present)\
 **Parexel International**  (Remote)
 
-- Reduce latency of data delivery by 10x for a major pharmaceutical client by creating novel data ingestion pipelines in R, Python, and Bash
-- Collaborate across the bioinformatics and data engineering teams to deliver thousands of genomic datasets (GWAS & xQTL) scaling to terabytes in size, driving biomarker discovery for drug development
+- Reduce latency of data delivery by 10x for a major pharmaceutical client by creating novel data ingestion pipelines in R, Python, and Bash to drive biomarker discovery
+- Collaborate across the bioinformatics and data engineering teams to deliver 1000s of genomic datasets (GWAS & xQTL) scaling to terabytes in size, integrating data and metadata  from UK Biobank, 1000 Genomes Project, FinnGen, Open Targets, GWAS Catalog, and more
 - Automate high-throughput quality control workflows to enable 24-hour client turnaround
 
 **Postdoctoral Researcher** (Jun. 2018 – Jan. 2022) \
 **University of Texas Southwestern Medical Center**  (Hybrid from Dallas, TX)
   
-- Lead a multi-group collaboration to publish the first single-cell RNA-seq dataset in birds, resulting in a co-first-author paper in *Science* (130+ citations) and a second-author paper in *Nature Communications* (25+ citations)
-- Conducted large-scale transcriptomics analyses of gene expression levels for 20,000+ genes in 200,000+ individual cells across multiple brain regions, species, and experiments
-- Awarded a competitive NIH Postdoctoral Fellowship (NRSA F32)
-- Implemented end-to-end spatial transcriptomics from molecular to computational components
+- Led a multi-group collaboration to publish novel single-cell RNA-seq datasets in neurobiology, resulting in a co-first-author paper in *Science* (145+ citations) and a second-author paper in *Nature Communications* (30+ citations)
+- Developed computational and analytical pipelines for large-scale transcriptomics data containing gene expression levels for 20,000+ genes in 200,000+ individual cells across multiple brain regions, species, and experiments
+- Delivered end-to-end spatial transcriptomics to research group, encompassing molecular library preparation, data and analytics pipelines, and documentation and training for new users
 
 ### INDEPENDENT PROJECTS
 
@@ -62,3 +61,9 @@ Biomedical data scientist experienced in bioinformatics, data pipeline developme
 - **Merullo, D. P.**, Cordes, M. A., DeVries, M. S., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin neural mRNA expression correlates with vocal communication and other highly-motivated social behaviors in male European starlings. *Physiology and Behavior*, 151, 155–161.
 
 - **Merullo, D. P.**, Cordes, M. A., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (Sturnus vulgaris). *Behavioural Brain Research*, 282, 133–143. 
+
+### SELECTED AWARDS ($350,000+ total)
+- (2019) NIH NINDS Postdoctoral Individual NRSA (F32) 
+- (2016) NSF Graduate Research Opportunities Worldwide (GROW)
+- (2016) Japan Society for the Promotion of Science Strategic Fellowship for Overseas Researchers
+- (2015) NSF Graduate Research Fellowship Program (GRFP)
