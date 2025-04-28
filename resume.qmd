@@ -44,7 +44,7 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 - Developed an unsupervised clustering pipeline in Python to classify poems into 4 difficultly levels based on verb usage
 - Built an interactive Plotly Dash web application for text exploration and visualization
   
-### SELECTED PUBLICATIONS (600+ citations total)
+### SELECTED PUBLICATIONS (650+ citations total)
 
 - Colquitt, B. M.\*, <strong>Merullo, D. P.\*</strong>, Konopka, G., Roberts, T. F., & Brainard, M. S. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. *Science*, 371(6530), eabd9704. <strong>*co-first author</strong>
 
@@ -63,7 +63,8 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 - **Merullo, D. P.**, Cordes, M. A., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (Sturnus vulgaris). *Behavioural Brain Research*, 282, 133–143. 
 
 ### SELECTED AWARDS ($350,000+ total)
-- (2019) NIH NINDS Postdoctoral Individual NRSA (F32) 
-- (2016) NSF Graduate Research Opportunities Worldwide (GROW)
-- (2016) Japan Society for the Promotion of Science Strategic Fellowship for Overseas Researchers
-- (2015) NSF Graduate Research Fellowship Program (GRFP)
+
+- 2019 – NIH NINDS Postdoctoral Individual NRSA (F32) 
+- 2016 – NSF Graduate Research Opportunities Worldwide (GROW)
+- 2016 – Japan Society for the Promotion of Science Strategic Fellowship for Overseas Researchers
+- 2015 – NSF Graduate Research Fellowship Program (GRFP)
