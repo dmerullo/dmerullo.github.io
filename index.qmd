@@ -11,7 +11,7 @@ text-align: justify}
 
 ![](files/picture.png){fig-align="center" width="40%"}
 
-I am a biomedical data scientist experienced in bioinformatics, data pipeline development, and high-dimensional analytics. With expertise in data science and the life sciences, I collaborate across teams and disciplines to translate large-scale biological data into functional insights and solutions. My projects have incorporated genomic data integration, single-cell and spatial multi-omics, interactive visualizations, scalable HPC/cloud workflows, and AI/ML applications.
+I am a biomedical data scientist experienced in bioinformatics, data pipeline development, and high-dimensional analytics. With expertise in data science and the life sciences, I collaborate across teams and disciplines to translate large-scale biological data into functional insights and solutions. My projects have incorporated genomic data integration, single-cell and spatial multi-omics, scalable workflow automation, statistical and AI-driven modeling, and data visualization. 
 
 {{< iconify carbon:email size=xl >}} dmerullo [at] protonmail [dot] com\
 {{< iconify carbon:logo-linkedin size=xl >}} [linkedin.com/dmerullo](https://www.linkedin.com/in/dmerullo){target="_blank"} \
