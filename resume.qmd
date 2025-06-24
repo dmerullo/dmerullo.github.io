@@ -25,7 +25,7 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 **Senior Bioinformatics Scientist** (Jan. 2022 – Present)\
 **Parexel International**  (Remote)
 
-- Streamline latency of data delivery by 10x for a major pharmaceutical client (GSK) by developing novel data ingestion pipelines in R, Python, and Bash to drive biomarker discovery
+- Streamline latency of data delivery by 10x for a major pharmaceutical client by developing novel data ingestion pipelines in R, Python, and Bash to drive biomarker discovery
 - Collaborate across bioinformatics and data engineering teams to deliver 1000s of genomic datasets (GWAS & eQTL) scaling to terabytes in size, integrating data and metadata from UK Biobank, 1000 Genomes Project, FinnGen, Open Targets, GWAS Catalog, and more
 - Automate high-throughput quality control workflows to enable 24-hour client turnaround
 
