@@ -3,15 +3,11 @@ title: "The Voynich Manuscript Says Something More Than Words"
 author: "Devin Merullo"
 date: 2025-06-25
 date-format: iso
-categories: 
-  - science
-  - philosophy
-  - writing
 ---
 
 There isn't really anything quite like it. The Voynich Manuscript is a book written in an unknown script, apparently inscribing an unknown language, filled with lavish illustrations of unidentified contraptions, scenes, and schematics that defy all attempts at understanding. The manuscript has been carbon-dated to approximately 1404-1438,  is named after Wilfrid Voynich, one of its owners who helped bring it to prominence in the early 1900s, and has now rested in Yale University's Beinecke Rare Book and Manuscript Library since 1969. I've been aware of this document for more than half my life now, and I return it to more frequently than may be impressive to admit; there is something about it that singularly captures my attention. I just want to know what it says[^wonder]. Today, after a flash of insight, not of application, I think I do. 
 
-![](../files/vms-1.png){fig-align="center"}
+![](files/vms-1.png){fig-align="center"}
 
 *An example of the unknown script and similarly unknown illustrations.*
 
@@ -26,7 +22,7 @@ The manuscript's first known mention is in a letter from someone named George Ba
 > As for the book filled with some sort of mysterious steganography which you enclosed with your letter, I have looked at it and have concluded that it requires application rather than insight in its solver. I can recall solving many writings of this kind when the occasion presented itself, and the itch of my mind working would have tried out some ideas on it if only many very urgent tasks did not call me away from unsuitable work of this kind. However, when I have more free time and can take advantage of a more suitable moment, I expect I shall try to solve it when the mood and inspiration take me.
 
 
-![](../files/vms-2.png){fig-align="center"}
+![](files/vms-2.png){fig-align="center"}
 
 *Wilfrid Voynich (1865-1930), left, a Polish book dealer who tried searching for answers. Athanasius Kircher (1602-1680), right, a Jesuit scholar in the Holy Roman Empire who claimed to read Egyptian hieroglyphs.*
 
@@ -52,7 +48,7 @@ Sounds a bit like where Kircher found himself, doesn't it?
 
 One thing that captivates me so much about the manuscript is that it's so darn passionate. Someone (or someones) spent a *lot* of time on this. Even if it's just gibberish in the end, it has to have taken the form of an obsession for the author. So let's imagine a particular scenario, and we'll see if you can then read the manuscript the same way I do now.
 
-![](../files/vms-3.png){fig-align="center"}
+![](files/vms-3.png){fig-align="center"}
 
 *I think I'm most intrigued by the intricate diagrams and figures, which seem to indicate they hold some deep, explanatory meaning.*
 
@@ -80,11 +76,13 @@ I'm talking about relationships. Situations where success wasn't driven solely b
 
 The Voynich Manuscript is a lesson that without multipliers, our efforts may as well be meaningless. Sure, in the case of the manuscript, it may in fact *be* meaningless-- it might not say anything in the end[^generation]. But I think it really says something. It says that you can't work alone, or in constant conflict, so confident in your own abilities, to the exclusion of all potential collaborators, and come out re-making knowledge. Of course, there will always be instances of solo contributors who manage to leave outsized impact, but these are the exceptions, not the rules. For the rest of us, whether stuck in medieval Europe or not, we're going to need some help. 
 
-![](../files/vms-4.png){fig-align="center"}
+![](files/vms-4.png){fig-align="center"}
 
 *Your guess is as good as mine.*
 
 I get now what the Voynich Manuscript says, in a way that might not satisfy all the code-crackers and linguists out there. Its enigmatic script doesn't say anything, and yet it says everything. Your communication needs to include connection: otherwise, with any luck, people may only someday debate not what you said, but whether you said anything at all[^impact]. 
+
+*Your readership is more than enough. Still, if you'd like to [buy me a coffee](https://buymeacoffee.com/dmerullo){target="_blank"}, it’s the clearest signal to keep writing.*
 
 [^wonder]: [Watching from 6:49 onward](https://www.youtube.com/watch?v=xOCe5HUObD4), what I'm talking about is the way he says "I would just like to know what it's all about; you know, why it's there." And at 8:24, the way he says "Oh, no; it's not arbitrary!" will continually haunt me.
 

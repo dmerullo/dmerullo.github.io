@@ -1,7 +1,7 @@
 ---
 title: "Misc."
 listing:
-  contents: articles
+  contents: misc
   type: table
   sort: "date"
   date-format: iso
