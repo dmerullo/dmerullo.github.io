@@ -4,9 +4,11 @@ title: "Writing"
 
 ***
 
-I've started a Substack, titled [*Compass and Candle*](https://dmerullo.substack.com/){target="_blank"}, to explore topics that interest me. To maintain ownership and control of my writing, I'm practicing [POSSE-- Publish (on your) Own Site, Syndicate Elsewhere-- from the IndieWeb](https://indieweb.org/POSSE){target="_blank"}, so I'm hosting my articles here as well. Although you can read these pieces in whatever order you'd like, I recommend viewing this arrangement as if it were the track listing for a full album.
+# Compass and Candle
+
+I've started a [Substack](https://dmerullo.substack.com/){target="_blank"} to explore topics that interest me. To maintain ownership and control of my writing, I'm also hosting the articles here, as inspired by [POSSE-- Publish (on your) Own Site, Syndicate Elsewhere-- from the IndieWeb](https://indieweb.org/POSSE){target="_blank"}. Although you can read these pieces in whatever order you'd like, I recommend viewing this arrangement as if it were the track listing for an album.
 
 *Your readership is more than enough. Still, if you'd like to [buy me a coffee](https://buymeacoffee.com/dmerullo){target="_blank"}, it’s the clearest signal to keep writing.*
 
-- [Compass and Candle](https://dmerullo.github.io/writing/compass-and-candle/compass-and-candle.html){target="_blank"}
+- [Compass and Candle](writing/compass-and-candle/compass-and-candle.html){target="_blank"}
 - [The Voynich Manuscript Says Something More Than Words](writing/compass-and-candle/vms.html){target="_blank"}
