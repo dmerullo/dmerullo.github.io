@@ -9,7 +9,7 @@ categories:
   - writing
 ---
 
-There isn't really anything quite like it. The Voynich Manuscript is a book written in an unknown script, apparently inscribing an unknown language, filled with lavish illustrations of unidentified contraptions, scenes, and schematics that defy all attempts at understanding. The manuscript has been carbon-dated to approximately 1404-1438,  is named after Wilfrid Voynich, one of its owners who helped bring it to prominence in the early 1900s, and has now rested in Yale University's Beinecke Rare Book and Manuscript Library since 1969. I've been aware of this document for more than half my life now, and I return it to more frequently than may be impressive to admit; there is something about it that singularly captures my attention. I just want to know what it says (1). Today, after a flash of insight, not of application, I think I do. 
+There isn't really anything quite like it. The Voynich Manuscript is a book written in an unknown script, apparently inscribing an unknown language, filled with lavish illustrations of unidentified contraptions, scenes, and schematics that defy all attempts at understanding. The manuscript has been carbon-dated to approximately 1404-1438,  is named after Wilfrid Voynich, one of its owners who helped bring it to prominence in the early 1900s, and has now rested in Yale University's Beinecke Rare Book and Manuscript Library since 1969. I've been aware of this document for more than half my life now, and I return it to more frequently than may be impressive to admit; there is something about it that singularly captures my attention. I just want to know what it says[^wonder]. Today, after a flash of insight, not of application, I think I do. 
 
 ![](../files/vms-1.png){fig-align="center"}
 
@@ -19,9 +19,9 @@ There isn't really anything quite like it. The Voynich Manuscript is a book writ
 
 I went a few more days without thinking about it. Then the Voynich bug arose again, and I did some more digging. I tried looking at some pages in-depth myself, scanning the text, the images, the diagrams for patterns, to add to the innumerable ranks of those who have done the same, as if again trying to prove the famed Riemann hypothesis from number theory. And the mathematician Andrew Wiles, in cracking Fermat's Last Theorem that was untouchable for centuries, proved that sometimes breakthroughs happen.
 
-During a web search to see if there were any matches to a string of text I thought I'd recognized, I came across a site that had a brief introduction to the manuscript (2). It mentioned its earliest known owner, and I dove a bit more into the manuscript's history, where the intrigue continued to flow. Setting aside the wonder of this world of mystic scholars and alchemists that was entirely new to me, I realized there was a genuine dialogue here, something that could provide the clues that were missing. 
+During a web search to see if there were any matches to a string of text I thought I'd recognized, I came across a site that had a brief introduction to the manuscript[^intro]. It mentioned its earliest known owner, and I dove a bit more into the manuscript's history, where the intrigue continued to flow. Setting aside the wonder of this world of mystic scholars and alchemists that was entirely new to me, I realized there was a genuine dialogue here, something that could provide the clues that were missing. 
 
-The manuscript's first known mention is in a letter from someone named George Baresch to Athanasius Kircher in 1639. Kircher had been known throughout Europe for his claimed deciphering of Egyptian hieroglyphs (which wasn't correct, by the way), which would make him an obvious front-runner for elucidating another baroque writing system, at least to European eyes. Kircher's reponse to Baresch was written in Latin, and I'll quote a translation here by Philip Neal (3):
+The manuscript's first known mention is in a letter from someone named George Baresch to Athanasius Kircher in 1639. Kircher had been known throughout Europe for his claimed deciphering of Egyptian hieroglyphs (which wasn't correct, by the way), which would make him an obvious front-runner for elucidating another baroque writing system, at least to European eyes. Kircher's reponse to Baresch was written in Latin, and I'll quote a translation here by Philip Neal[^kircher]:
 
 > As for the book filled with some sort of mysterious steganography which you enclosed with your letter, I have looked at it and have concluded that it requires application rather than insight in its solver. I can recall solving many writings of this kind when the occasion presented itself, and the itch of my mind working would have tried out some ideas on it if only many very urgent tasks did not call me away from unsuitable work of this kind. However, when I have more free time and can take advantage of a more suitable moment, I expect I shall try to solve it when the mood and inspiration take me.
 
@@ -32,7 +32,7 @@ The manuscript's first known mention is in a letter from someone named George Ba
 
 Baresch had clearly reached out to Kircher out of respect and perceived expertise, and Kircher didn't see it worth his time. This alone could be enough to dismiss the value of the manuscript-- why wouldn't a man like Kircher have wanted to solve it, unless documents like this weren't that noteworthy back then? Filtering out signal from noise is an age-old problem, after all. He clearly mentions much other more *important* work he has to do, without defining what that is. What we do know, though, is that Kircher received part of this manuscript and brushed it off, almost certainly due to the reputation, or lack thereof, of the document or the sender itself.
 
-Afer Baresch's passing, his good friend Jan Marek Marci follows up with Kircher again. (Within this medieval circle, Kircher must have been the guy to go to, or at least the one most likely to respond.) But this time he does something different-- well, I'm assuming so, because we don't have access to the complete correspondence. Let's look at it (4):
+Afer Baresch's passing, his good friend Jan Marek Marci follows up with Kircher again. (Within this medieval circle, Kircher must have been the guy to go to, or at least the one most likely to respond.) But this time he does something different-- well, I'm assuming so, because we don't have access to the complete correspondence. Let's look at it[^marci]:
 
 > Doctor Raphael, the Czech language tutor of King Ferdinand III as they both then were, once told me that the said book belonged to Emperor Rudolph and that he presented 600 ducats to the messenger who brought him the book. He, Raphael, thought that the author was Roger Bacon the Englishman. I suspend my judgement on the matter.
 > 
@@ -78,20 +78,22 @@ Have you ever poured your heart into something, only to have it go nowhere? Have
 
 I'm talking about relationships. Situations where success wasn't driven solely by the quality of the output, but by the power of the network that propelled it. Where the dynamic surrounding the work-- the context, the community, the uncontrollable and emergent external interest-- actually better explained the eventual impact than the craftsmanship and intricacies of the artistry that went into it.
 
-The Voynich Manuscript is a lesson that without multipliers, our efforts may as well be meaningless. Sure, in the case of the manuscript, it may in fact *be* meaningless-- it might not say anything in the end (5). But I think it really says something. It says that you can't work alone, or in constant conflict, so confident in your own abilities, to the exclusion of all potential collaborators, and come out re-making knowledge. Of course, there will always be instances of solo contributors who manage to leave outsized impact, but these are the exceptions, not the rules. For the rest of us, whether stuck in medieval Europe or not, we're going to need some help. 
+The Voynich Manuscript is a lesson that without multipliers, our efforts may as well be meaningless. Sure, in the case of the manuscript, it may in fact *be* meaningless-- it might not say anything in the end[^generation]. But I think it really says something. It says that you can't work alone, or in constant conflict, so confident in your own abilities, to the exclusion of all potential collaborators, and come out re-making knowledge. Of course, there will always be instances of solo contributors who manage to leave outsized impact, but these are the exceptions, not the rules. For the rest of us, whether stuck in medieval Europe or not, we're going to need some help. 
 
 ![](../files/vms-4.png){fig-align="center"}
 
 *Your guess is as good as mine.*
 
-I get now what the Voynich Manuscript says, in a way that might not satisfy all the code-crackers and linguists out there. Its enigmatic script doesn't say anything, and yet it says everything. Your communication needs to include connection: otherwise, with any luck, people may only someday debate not what you said, but whether you said anything at all (6). 
+I get now what the Voynich Manuscript says, in a way that might not satisfy all the code-crackers and linguists out there. Its enigmatic script doesn't say anything, and yet it says everything. Your communication needs to include connection: otherwise, with any luck, people may only someday debate not what you said, but whether you said anything at all[^impact]. 
 
-(1) Watching from 6:49 onward, what I'm talking about is the way he says "I would just like to know what it's all about; you know, why it's there." And at 8:24, the way he says "Oh, no; it's not arbitrary!" will continually haunt me. https://www.youtube.com/watch?v=xOCe5HUObD4
-(2) Check Quire 1 for the introduction. I also used the images from these PDFs: https://www.ixoloxi.com/voynich/pdf/single.html 
-(3) https://www.voynich.nu/letters.html
-(4) Also translated by Philip Neal. Found linked from the website in (3), directly on: http://philipneal.net/voynichsources/marci_1665_english/
-(5) A compelling argument for rule-based text generation, somewhat akin to cellular automata: https://arxiv.org/abs/1407.6639
-(6) The closing lines of this article definitely resonated with me: https://maxwellforbes.com/posts/dont-try-to-reform-science/
+[^wonder]: [Watching from 6:49 onward](https://www.youtube.com/watch?v=xOCe5HUObD4), what I'm talking about is the way he says "I would just like to know what it's all about; you know, why it's there." And at 8:24, the way he says "Oh, no; it's not arbitrary!" will continually haunt me.
 
+[^intro]: Check Quire 1 for the introduction. I also used the images from [these PDFs](https://www.ixoloxi.com/voynich/pdf/single.html). 
 
+[^kircher]: [https://www.voynich.nu/letters.html](https://www.voynich.nu/letters.html)
 
+[^marci]: Also translated by Philip Neal. [Found linked](http://philipneal.net/voynichsources/marci_1665_english/) from the website in (3).
+
+[^generation]: [A compelling argument for rule-based text generation](https://arxiv.org/abs/1407.6639), somewhat akin to cellular automata.
+
+[^impact]: The closing lines of [this article](https://maxwellforbes.com/posts/dont-try-to-reform-science/) definitely resonated with me.
