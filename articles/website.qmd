@@ -1,8 +1,7 @@
 ---
 title: "How I made this website"
 author: "Devin Merullo"
-date: today
-date-modified: last-modified
+date: 2024-07-19
 date-format: iso
 categories: 
   - technical
