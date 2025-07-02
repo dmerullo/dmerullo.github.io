@@ -12,3 +12,4 @@ I've started a [Substack](https://dmerullo.substack.com/){target="_blank"} to ex
 
 - [Compass and Candle](writing/compass-and-candle/compass-and-candle.html)
 - [The Voynich Manuscript Says Something More Than Words](writing/compass-and-candle/vms.html)
+- [Why the Chronology of *The Legend of Zelda* Keeps Me Up At Night](writing/compass-and-candle/zelda-timeline.html)
