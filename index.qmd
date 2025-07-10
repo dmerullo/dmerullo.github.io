@@ -15,4 +15,5 @@ I am a biomedical data scientist experienced in bioinformatics, data pipeline de
 
 {{< iconify carbon:email size=xl >}} dmerullo [at] protonmail [dot] com\
 {{< iconify carbon:logo-linkedin size=xl >}} [linkedin.com/dmerullo](https://www.linkedin.com/in/dmerullo){target="_blank"} \
-{{< iconify carbon:logo-github size=xl >}} [github.com/dmerullo](https://github.com/dmerullo){target="_blank"}
+{{< iconify carbon:logo-github size=xl >}} [github.com/dmerullo](https://github.com/dmerullo){target="_blank"} \
+{{< iconify simple-icons:substack size=xl >}} [dmerullo.substack.com](https://dmerullo.substack.com/){target="_blank"}
