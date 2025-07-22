@@ -22,15 +22,18 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 
 ### EXPERIENCE
 
-**Senior Bioinformatics Scientist** (Jan. 2022 – Present)\
+**Associate Consultant** (Jul. 2025 – Present)\
+**ZS Associates**  (Boston, MA)
+
+**Senior Bioinformatics Scientist** (Jan. 2022 – Oct. 2024)\
 **Parexel International**  (Remote)
 
-- Streamline latency of data delivery by 10x for a major pharmaceutical client by developing novel data ingestion pipelines in R, Python, and Bash to drive biomarker discovery
-- Collaborate across bioinformatics and data engineering teams to deliver 1000s of genomic datasets (GWAS & eQTL) scaling to terabytes in size, integrating data and metadata from UK Biobank, 1000 Genomes Project, FinnGen, Open Targets, GWAS Catalog, and more
-- Automate high-throughput quality control workflows to enable 24-hour client turnaround
+- Streamlined latency of data delivery by 10x for a major pharmaceutical client by developing novel data ingestion pipelines in R, Python, and Bash to drive biomarker discovery
+- Collaborated across bioinformatics and data engineering teams to deliver 1000s of genomic datasets (GWAS & eQTL) scaling to terabytes in size, integrating data and metadata from UK Biobank, 1000 Genomes Project, FinnGen, Open Targets, GWAS Catalog, and more
+- Automated high-throughput quality control workflows to enable 24-hour client turnaround
 
 **Postdoctoral Researcher** (Jun. 2018 – Jan. 2022) \
-**University of Texas Southwestern Medical Center**  (Hybrid from Dallas, TX)
+**University of Texas Southwestern Medical Center**  (Dallas, TX)
   
 - Led a multi-group collaboration to publish novel single-cell RNA-seq datasets in neurobiology, resulting in a co-first-author paper in *Science* (145+ citations) and a second-author paper in *Nature Communications* (30+ citations)
 - Independently analyzed large-scale single-cell RNA-seq data by applying computational pipelines, dataset integration, unsupervised clustering (k-nearest neighbor + Louvain method), and statistical modeling to generate biological insights across research domains
@@ -44,7 +47,7 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 - Developed an unsupervised clustering (k-means) pipeline in Python to classify poems into 4 difficultly levels based on verb usage
 - Built an interactive Plotly Dash web application for text exploration and visualization
   
-### SELECTED PUBLICATIONS (650+ citations total)
+### SELECTED PUBLICATIONS (700+ citations total)
 
 - Colquitt, B. M.\*, <strong>Merullo, D. P.\*</strong>, Konopka, G., Roberts, T. F., & Brainard, M. S. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. *Science*, 371(6530), eabd9704. <strong>*co-first author</strong>
 
@@ -60,11 +63,4 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 
 - **Merullo, D. P.**, Cordes, M. A., DeVries, M. S., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin neural mRNA expression correlates with vocal communication and other highly-motivated social behaviors in male European starlings. *Physiology and Behavior*, 151, 155–161.
 
-- **Merullo, D. P.**, Cordes, M. A., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (Sturnus vulgaris). *Behavioural Brain Research*, 282, 133–143. 
-
-### SELECTED AWARDS ($350,000+ total)
-
-- 2019 – NIH NINDS Postdoctoral Individual NRSA (F32) 
-- 2016 – NSF Graduate Research Opportunities Worldwide (GROW)
-- 2016 – Japan Society for the Promotion of Science Strategic Fellowship for Overseas Researchers
-- 2015 – NSF Graduate Research Fellowship Program (GRFP)
+- **Merullo, D. P.**, Cordes, M. A., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (Sturnus vulgaris). *Behavioural Brain Research*, 282, 133–143.
