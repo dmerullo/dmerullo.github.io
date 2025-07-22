@@ -17,7 +17,7 @@ text-align: justify}
 
 *at [Parexel International](https://en.wikipedia.org/wiki/Parexel){target="_blank"}*
 
-In my current role at a clinical research organization for a major pharmaceutical client, I perform data ingestion and develop ETL pipelines for genomic sequencing datasets (GWAS & xQTL) from clinical study populations to identify specific variations in the genome that may relate to disease and illness. As part of the biomarkers and genomic medicine team, I'm a link between the scientific analysts who require efficient management of this data at scale, and the data scientists/engineers who lack familiarity with bioinformatics methods and resources.
+At a clinical research organization for a major pharmaceutical client, I performed data ingestion and developed ETL pipelines for genomic sequencing datasets (GWAS & xQTL) from clinical study populations to identify specific variations in the genome that may relate to disease and illness. As part of the biomarkers and genomic medicine team, I bridged the scientific analysts who require efficient management of this data at scale, and the data scientists/engineers who lack familiarity with bioinformatics methods and resources.
 
 *Examples of tools created for internal client use:*
 
