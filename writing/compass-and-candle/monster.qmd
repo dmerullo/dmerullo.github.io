@@ -31,7 +31,7 @@ Yes, this is the largest group. No, it's not known why there is nothing bigger. 
 
 As of this writing, there is no known reason why the Monster exists, or why this synchronicity arises across disparate branches of math. Its features are derived as formal, systematic rules, something that is analytically true and logically proven-- it can't *not* exist at this point-- and yet there is not a single compelling reason for *why* it's there.[^sources] It would be like finding a new element that doesn't fit into the periodic table that's as large as all of the other elements combined, times septendecillion.
 
-Somewhere out there, Totoro is grinning in 196,833 dimensions, totally aware of what he's up to.
+Somewhere out there, Totoro is grinning in 196,883 dimensions, totally aware of what he's up to.
 
 ![](files/totoro.png){fig-align="center"}
 
@@ -41,7 +41,7 @@ My favorite takeaway from the Studio Ghibli film *My Neighbor Totoro*, which dep
 
 Totoro's path through life wouldn't be the same if he weren't able to fully connect with Satsuki, though. It's through their joint expeditions that they each can find and create meaning for the otherwise unclear parts of their lives. For Satsuki, she's able to resolve the tension of her anxiety around her mother's illness; for Totoro, he's able to ground himself in an existence with real consequences beyond aimlessly wandering around illusive playscapes all day. Without each other, Satsuki and Totoro each are a little lost; together, they're able to locate their paths forward.
 
-It's humbling to write about the finite simple groups at this precise moment, and for you to read it, when there's *no understanding* of why the Monster is there. For most of human history, people did not know (or at least did not accept) that the Earth revolves around the Sun. I don't know if the Monster's role will prove to be as consequential as the calculations that led to theories of gravity and ultimately to the nature of space and time itself. I find it hard to imagine, though, that our 196,883-dimensional Totoro has *no* connection to us. In the movie, Totoro appears to Satsuki in a time of need. What will our need for the Monster be? I'm as unaware as everyone else, but knowing that it's there is enough to keep me gazing at the stars. 
+It's humbling to write about the finite simple groups at this precise moment, and for you to read it, when there's *no understanding* of why the Monster is there. For most of human history, people did not know (or at least did not accept) that the Earth revolves around the Sun. I don't know if the Monster's role will prove to be as consequential as the calculations that led to theories of gravity and ultimately to the nature of space and time itself. Still, I find it hard to imagine that our 196,883-dimensional Totoro has *no* connection to us. In the movie, Totoro appears to Satsuki in a time of need. What will our need for the Monster be? I'm as unaware as everyone else, but knowing that it's there is enough to keep me gazing at the stars. 
 
 *Your readership is more than enough. Still, if you'd like to [buy me a coffee](https://buymeacoffee.com/dmerullo){target="_blank"}, it’s the clearest signal to keep writing.*
 
