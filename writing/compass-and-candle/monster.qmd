@@ -13,7 +13,7 @@ Let's say you're quite tall and looking down at a square table below you (or you
 
 ![](files/symmetry.png){fig-align="center"}
 
-*You're looking down at the table as in (A), seeing a diamond shape. Rotating it 45 degrees clockwise yields a square shape (B), whereas 90 degrees produces the same diamond shape. You can repeat this rotation 3 times, for 4 times total.*
+*You're looking down at the table as in (A), seeing a diamond shape. Rotating it 45 degrees clockwise yields a square shape (B), whereas 90 degrees produces the same diamond shape (C). You can repeat this rotation 3 times, for 4 times total.*
 
 This is known as maintaining symmetry, where "symmetry" here in math means the same as in regular language. The collection of these movements that yield a symmetry is known as a "group." Thus, a mathematical group contains the ways to preserve symmetry of a shape. The group for our table has a specific name (C<sub>4</sub>), and what's important to remember is that it doesn't just apply to our table; it applies *universally*, for *all* objects that consist of four points joined by straight edges at right angles.[^frenkel] 
 
