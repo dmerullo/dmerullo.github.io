@@ -47,5 +47,6 @@ It's humbling to write about the finite simple groups at this precise moment, an
 
 [^frenkel]: This explanation with the table is what Edward Frenkel uses in his book *Love and Math*. Highly recommend.
 [^sanderson]: This line is from Grant Sanderson's 3Blue1Brown video ["Group theory, abstraction, and the 196,883-dimensional monster"](https://www.youtube.com/watch?v=mH0oCDa74tE){target="_blank"}. 
-[^sources]: I'm taking the words at face value from two people deeply involved in the Monster, [John Conway](https://www.youtube.com/watch?v=xOCe5HUObD4) and [Richard Borcherds](https://www.youtube.com/watch?v=xu15ZbxxnUQ){target="_blank"}. [^moonshine]: Check out "monstrous moonshine."
+[^sources]: I'm taking the words at face value from two people deeply involved in the Monster, [John Conway](https://www.youtube.com/watch?v=xOCe5HUObD4) and [Richard Borcherds](https://www.youtube.com/watch?v=xu15ZbxxnUQ){target="_blank"}.
+[^moonshine]: Check out "monstrous moonshine."
 
