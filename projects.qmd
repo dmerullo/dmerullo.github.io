@@ -11,25 +11,25 @@ text-align: justify}
 
 # Natural language and data science
 
-[Project ESPAÑOL](https://github.com/dmerullo/project-espanol){target="_blank"} is an application that leverages high-throughput analysis of classical Spanish-language poems to create custom lesson plans and guide discovery of new texts for practice and study. The dataset contains 10,000 Spanish-language poems in the public domain from 200 authors covering 500 years, totaling 2.5 million words. An unsupervised clustering algorithm in Python grouped the poems into 4 difficulty levels by analyzing the frequencies of 10,000+ verb forms conjugated across 18 grammatical tenses for the 550+ most common verbs. The full texts, metadata, and grammatical statistics can be accessed in an [interactive Plotly Dash application](http://dmerullo.pythonanywhere.com/){target="_blank"}. 
+I developed [Project ESPAÑOL](https://github.com/dmerullo/project-espanol){target="_blank"}, an application that leverages high-dimensional analysis of classical Spanish-language poems to create custom lesson plans and guide discovery of new texts for practice and study. Using high-throughput web scraping, I generated a dataset of 10,000 Spanish-language poems in the public domain (totaling 2.5 million words), and then ran an unsupervised clustering algorithm in Python to group the poems into difficulty levels by analyzing verb frequencies and grammatical tenses. I built [an interactive Plotly Dash application](http://dmerullo.pythonanywhere.com/){target="_blank"} to view the full texts, metadata, and grammatical statistics.
 
 # Biomarkers and genomic medicine
 
 *at [Parexel International](https://en.wikipedia.org/wiki/Parexel){target="_blank"}*
 
-At a clinical research organization for a major pharmaceutical client, I performed data ingestion and developed ETL pipelines for genomic sequencing datasets (GWAS & xQTL) from clinical study populations to identify specific variations in the genome that may relate to disease and illness. As part of the biomarkers and genomic medicine team, I bridged the scientific analysts who require efficient management of this data at scale, and the data scientists/engineers who lack familiarity with bioinformatics methods and resources.
+At a clinical research organization for a major pharmaceutical client, I performed data ingestion and developed ETL pipelines for external genomic data integration (primarily GWAS & eQTL data). I wrote a variety of pipelines in R, Python, and Bash to streamline data ingestion according to the client's specific data and metadata standards. With fluency in techniques from both bioinformatics and data science, I bridged the scientific analysts who required management of this data at scale, and the data engineers who lacked familiarity with bioinformatics methods and resources.
 
-*Examples of tools created for internal client use:*
+*Example of open-source tool created:*
 
--   Lift over genomic regions from datasets on human genome build 37 to build 38
--   Update genomic coordinates for rsIDs from older builds of dbSNP
--   Generate custom entity flat files for xQTL studies
+- [SPUR: SNP Position Update from rsIDs](https://github.com/dmerullo/rsid-liftover-to-hg38){target="_blank"}
+  - A pipeline to lift over genomic coordinates from datasets on older builds of the human genome only containing rsIDs
+  - SPUR first identifies the rsIDs in the original data that map to the current dbSNP build without issue, and those that do not. Then,   SPUR differentiates between the non-mapping rsIDs that have been merged to a different rsID in the current build, and the rsIDs that have been dropped completely. Finally, SPUR updates the SNP positions in the original dataset by linking the mapped and merged rsIDs with current genome positions.
 
 # Neural cell types and circuits for vocal learning
 
 *at [University of Texas Southwestern Medical Center](https://en.wikipedia.org/wiki/University_of_Texas_Southwestern_Medical_Center){target="_blank"} in the [Roberts lab](https://labs.utsouthwestern.edu/roberts-lab){target="_blank"} and [Konopka lab](https://konopkalab.org/){target="_blank"}*
 
-My post-doctoral research used comparative high-throughput transcriptomics to understand how the brain produces complex, learned behaviors like speech and language. These projects were the first to implement single-cell RNA sequencing in songbirds, establishing a template for the field from molecular to computational components, and the results have broad implications for understanding the genetic toolkits that neurons and circuits use to perform advanced computations.
+My post-doctoral research used comparative high-throughput transcriptomics to understand how the brain produces complex, learned behaviors like speech and language. These projects were the first to implement single-cell RNA sequencing in songbirds, and the results have broad implications for understanding the genetic toolkits that neurons and circuits use to perform advanced computations. I performed end-to-end analysis of large-scale, high-dimensional gene expression data encompassing molecular library preparation, computational pipelines, dataset integration, unsupervised clustering, and statistical modeling. 
 
 *Open-access links to publications:*
 
@@ -40,7 +40,7 @@ My post-doctoral research used comparative high-throughput transcriptomics to un
 
 *at [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison){target="_blank"} in the [Riters lab](https://integrativebiology.wisc.edu/staff/riters-lauren/){target="_blank"}*
 
-My doctoral dissertation examined the neural control of vocal communication across contexts in songbirds. I identified neurotensin, a neuropeptide involved in motivation and reward that strongly interacts with dopamine, as a potential modulator of context-specific vocalizations. By establishing links between neurotensin and vocal communication for the first time, this research also contributed to a better understanding of neurotensin's role in the regulation of social behavior more generally.
+My doctoral dissertation examined the neural control of vocal communication across contexts, using songbirds as a model system. I identified neurotensin, a neuropeptide involved in motivation and reward that strongly interacts with dopamine, as a potential modulator of context-specific vocalizations. I applied multiple linear regression techniques to analyze datasets containing gene expression, protein labeling, and behavioral observations.
 
 *Open-access links to publications:*
 

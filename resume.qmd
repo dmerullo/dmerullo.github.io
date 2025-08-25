@@ -25,6 +25,8 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 **Associate Consultant** (Jul. 2025 – Present)\
 **ZS Associates**  (Boston, MA)
 
+- Design and deliver solutions for clients across the life sciences including bioinformatics, pharmaceuticals, biotechnology, and biomedical research
+
 **Senior Bioinformatics Scientist** (Jan. 2022 – Oct. 2024)\
 **Parexel International**  (Remote)
 
@@ -36,7 +38,7 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 **University of Texas Southwestern Medical Center**  (Dallas, TX)
   
 - Led a multi-group collaboration to publish novel single-cell RNA-seq datasets in neurobiology, resulting in a co-first-author paper in *Science* (145+ citations) and a second-author paper in *Nature Communications* (30+ citations)
-- Independently analyzed large-scale single-cell RNA-seq data by applying computational pipelines, dataset integration, unsupervised clustering (k-nearest neighbor + Louvain method), and statistical modeling to generate biological insights across research domains
+- Independently analyzed large-scale single-cell RNA-seq data by applying computational pipelines, dataset integration, unsupervised clustering (k-nearest neighbor + Louvain method), and statistical modeling
 - Delivered spatial transcriptomics capabilities to research group, encompassing molecular library preparation, data and analytics pipelines, documentation, and training for new users
 
 ### INDEPENDENT PROJECTS
