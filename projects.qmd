@@ -17,7 +17,7 @@ I developed [Project ESPAÑOL](https://github.com/dmerullo/project-espanol){targ
 
 *at [Parexel International](https://en.wikipedia.org/wiki/Parexel){target="_blank"}*
 
-At a clinical research organization for a major pharmaceutical client, I performed data ingestion and developed ETL pipelines for external genomic data integration (primarily GWAS & eQTL data). I wrote a variety of pipelines in R, Python, and Bash to streamline data ingestion according to the client's specific data and metadata standards. With fluency in techniques from both bioinformatics and data science, I bridged the scientific analysts who required management of this data at scale, and the data engineers who lacked familiarity with bioinformatics methods and resources.
+At a clinical research organization for a major pharmaceutical client, I performed data ingestion and developed ETL pipelines for external genomic data integration (primarily GWAS & eQTL data). I wrote pipelines in R, Python, and Bash to streamline data ingestion according to the client's specific data and metadata standards. With fluency in techniques from both bioinformatics and data science, I bridged the scientific analysts who required management of this data at scale, and the data engineers who lacked familiarity with bioinformatics methods and resources.
 
 *Example of open-source tool created:*
 
