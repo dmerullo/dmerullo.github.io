@@ -35,12 +35,13 @@ My post-doctoral research used comparative high-throughput transcriptomics to un
 
 -   [(2021) Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136249/){target="_blank"}
 -   [(2021) Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird](https://doi.org/10.1038/s41467-021-22918-2){target="_blank"}
+- [Code repository for data processing, analysis, and figures](https://github.com/dmerullo/songbird-single-cell){target="_blank"}
 
 # Neuromodulators of motivation and reward in vocal communication
 
 *at [University of Wisconsin-Madison](https://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison){target="_blank"} in the [Riters lab](https://integrativebiology.wisc.edu/staff/riters-lauren/){target="_blank"}*
 
-My doctoral dissertation examined the neural control of vocal communication across contexts, using songbirds as a model system. I identified neurotensin, a neuropeptide involved in motivation and reward that strongly interacts with dopamine, as a potential modulator of context-specific vocalizations. I applied multiple linear regression techniques to analyze datasets containing gene expression, protein labeling, and behavioral observations.
+My doctoral dissertation examined the neural control of vocal communication across contexts, using songbirds as a model system. I identified neurotensin, a neuropeptide involved in motivation and reward that strongly interacts with dopamine, as a potential modulator of context-specific vocalizations. I applied multiple linear regression techniques to analyze individual, developmental, and physiological variation in gene expression, protein labeling, and behavior.
 
 *Open-access links to publications:*
 
