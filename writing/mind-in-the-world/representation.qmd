@@ -21,9 +21,9 @@ His point here, despite extolling the merits of experimentation in the 2014 inte
 
 ![](files/empiricism.png){fig-align="center"}
 
-*This topic isn't a new issue. Discourses favoring rationalism, empiricism, or some synthesis of the two have been going on across multiple languages since at least Descartes, Hume, and Kant.*
+*This topic isn't new. Discourses favoring rationalism, empiricism, or some synthesis of the two have been going on in multiple languages since at least Descartes, Hume, and Kant (spanning 1596-1804).*
 
-I get where the frustration comes from-- so much of psychology and cognitive science seems too far removed from the underlying brain function to be falsifiable, and you quickly run into situations where people compete more on the strength of their prose and argumentation than experimental validation. I also resonate with the need for higher-level synthesis, because otherwise you get an opposite situation where laboratories produce data in silos with a lost plot. 
+I get where the frustration comes from-- much of psychology and cognitive science seems too far removed from the underlying brain function to be falsifiable, and you quickly run into situations where people compete more on the strength of their prose and argumentation than experimental validation. I also resonate with the need for higher-level synthesis, because otherwise you get an opposite situation where laboratories produce data in silos with a lost plot. 
 
 David Marr, in my opinion, best resolves this conundrum in the first chapter of his 1982 book *Vision*, where he delineates information processing into three streams. The middle level, the representation of information, most closely relates to the neuroscience problem raised above. Marr illustrates multiple ways to represent numbers, such as with Arabic numerals (digits 0-9), binary numerals (digits 0-1), or Roman numerals (I, V, X, etc.). While the underlying mathematics doesn't differ with the representation, the information conveyed *does*. The number 37 in Arabic numerals indicates that the digits are built from powers of 10, while the same amount written in binary (100101) reveals the use of powers of 2.[^binary]
 
