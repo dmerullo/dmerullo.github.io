@@ -26,4 +26,6 @@ I've started a [Substack](https://dmerullo.substack.com/){target="_blank"} for c
 
 - [A Complete Identity for Psychology](writing/mind-in-the-world/psychology.html)
 
+- [Anxious Fluctuations in Space-Time](writing/mind-in-the-world/anxiety.html)
+
 - [*My Neighbor Totoro* in 196,883 Dimensions](writing/mind-in-the-world/monster.html)
