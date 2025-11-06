@@ -4,7 +4,7 @@ title: "Writing"
 
 ***
 
-I've started a [Substack](https://dmerullo.substack.com/){target="_blank"} for creative nonfiction. Inspired by [POSSE-- Publish (on your) Own Site, Syndicate Elsewhere-- from the IndieWeb](https://indieweb.org/POSSE){target="_blank"}, I'm hosting the articles here as well. Since I can now display the pieces in a specific order, unlike on Substack, I recommend viewing this arrangement as if it were the track listing for an album not yet finished.
+I've started a [Substack](https://dmerullo.substack.com/){target="_blank"} for creative nonfiction. Inspired by POSSE-- [Publish (on your) Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE){target="_blank"}-- from the IndieWeb, I'm hosting the articles here as well. Additionally, unlike on Substack, I can now display the pieces in a specific order.
 
 *Your readership is more than enough. Still, if you'd like to [buy me a coffee](https://buymeacoffee.com/dmerullo){target="_blank"}, it’s the clearest signal to keep writing.*
 
@@ -12,20 +12,20 @@ I've started a [Substack](https://dmerullo.substack.com/){target="_blank"} for c
 
 - [Compass and Candle](writing/mind-in-the-world/compass-and-candle.html)
 
-- [The Voynich Manuscript Says Something More Than Words](writing/mind-in-the-world/vms.html)
+- [Demanding Less to Understand More](writing/mind-in-the-world/self.html)
 
 - [The Untold Story of Self-Conscious Intelligence](writing/mind-in-the-world/movement.html)
 
 - [The Road to Taoism is Paved With Punk Music](writing/mind-in-the-world/tao-punk.html)
 
-- [Why the Chronology of *The Legend of Zelda* Keeps Me Up At Night](writing/mind-in-the-world/zelda-timeline.html)
+- [The Voynich Manuscript Says Something More Than Words](writing/mind-in-the-world/vms.html)
 
-- [Demanding Less to Understand More](writing/mind-in-the-world/self.html)
+- [Why the Chronology of *The Legend of Zelda* Keeps Me Up At Night](writing/mind-in-the-world/zelda-timeline.html)
 
 - [Reality's True Representation](writing/mind-in-the-world/representation.html)
 
-- [A Complete Identity for Psychology](writing/mind-in-the-world/psychology.html)
+- [*My Neighbor Totoro* in 196,883 Dimensions](writing/mind-in-the-world/monster.html)
 
 - [Anxious Fluctuations in Space-Time](writing/mind-in-the-world/anxiety.html)
 
-- [*My Neighbor Totoro* in 196,883 Dimensions](writing/mind-in-the-world/monster.html)
+- [A Complete Identity for Psychology](writing/mind-in-the-world/psychology.html)
