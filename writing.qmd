@@ -8,28 +8,4 @@ I've started a [Substack](https://dmerullo.substack.com/){target="_blank"} for c
 
 *Your readership is more than enough. Still, if you'd like to [buy me a coffee](https://buymeacoffee.com/dmerullo){target="_blank"}, it’s the clearest signal to keep writing.*
 
-[Mind in the World](writing/mind-in-the-world/_book/){target="_blank"}
-
-**Mind in the World**
-
-- [Compass and Candle](writing/mind-in-the-world/compass-and-candle.html)
-
-- [Demanding Less to Understand More](writing/mind-in-the-world/self.html)
-
-- [The Untold Story of Self-Conscious Intelligence](writing/mind-in-the-world/movement.html)
-
-- [The Road to Taoism is Paved With Punk Music](writing/mind-in-the-world/tao-punk.html)
-
-- [The Voynich Manuscript Says Something More Than Words](writing/mind-in-the-world/vms.html)
-
-- [Dance with the Dark](writing/mind-in-the-world/individuation.html)
-
-- [Why the Chronology of *The Legend of Zelda* Keeps Me Up At Night](writing/mind-in-the-world/zelda-timeline.html)
-
-- [Reality's True Representation](writing/mind-in-the-world/representation.html)
-
-- [*My Neighbor Totoro* in 196,883 Dimensions](writing/mind-in-the-world/monster.html)
-
-- [Anxious Fluctuations in Space-Time](writing/mind-in-the-world/anxiety.html)
-
-- [A Complete Identity for Psychology](writing/mind-in-the-world/psychology.html)
+[Mind in the World: An essay collection exploring science, philosophy, and the experience of being human today](writing/mind-in-the-world/_book/){target="_blank"}
