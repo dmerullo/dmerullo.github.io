@@ -22,25 +22,25 @@ Punk music was born from the excesses of rock-n-roll, exemplified by the increas
 
 The "big three" tomes of Taoism-- the Tao Te Ching, the Zhuangzi, and the Lieh-Tzu-- capture this lesson of birth through death, and vice versa, via a series of poems, parables, and prose that famously lack directness. Similar to how the true Tao is the Tao that cannot be named, the lessons of Taoism are not found in the text itself but rather in the experience of examining and reflecting on the message. These works leverage analogies with nature or clever use of everyday language to illustrate, for example, that a particular state or condition doesn't exist in isolation, instead arising from its comparison:[^tao-te-ching-2]
 
-> When the world knows beauty as beauty, ugliness arises
-> When it knows good as good, evil arises
-> Thus being and nonbeing produce each other
-> Difficult and easy bring about each other
-> Long and short reveal each other
-> High and low support each other
-> Music and voice harmonize each other
-> Front and back follow each other
+> When the world knows beauty as beauty, ugliness arises  
+> When it knows good as good, evil arises  
+> Thus being and nonbeing produce each other  
+> Difficult and easy bring about each other  
+> Long and short reveal each other  
+> High and low support each other  
+> Music and voice harmonize each other  
+> Front and back follow each other  
 
 Compare this to the lyrics from "Suburban Home" by the Descendents, which clearly shouts something more than it says. (The singer, of course, is mostly yelling.)
 
-> I wanna be stereotyped
-> I wanna be classified 
-> I wanna be a clone
-> I want a suburban home
-> I wanna be masochistic
-> I wanna be a statistic
-> I don't want no hippie pad
-> I want a house just like mom and dad
+> I wanna be stereotyped  
+> I wanna be classified  
+> I wanna be a clone  
+> I want a suburban home  
+> I wanna be masochistic  
+> I wanna be a statistic  
+> I don't want no hippie pad  
+> I want a house just like mom and dad  
 
 At some point or another, we have all wanted to throw our hands up and walk away,[^cartman] either from the mundanity of modern life or something more (or less) profound. Whether we actually follow through is a different matter. It's natural to hit your break point in any instance, be it after physical exertion from exercise, intellectual exhaustion after work or study, or interpersonal communication with a partner. Facing this split is often the precise opportunity for worthwhile development[^lieh-tzu]: 
 
