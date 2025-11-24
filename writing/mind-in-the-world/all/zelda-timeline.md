@@ -62,10 +62,12 @@ I get it. Nintendo found themselves backed into a corner, faced with the difficu
 Why? Let me describe, again briefly, an oft-forgotten title released in between *The Wind Waker* and *Twilight Princess*-- *The Legend of Zelda: Four Swords Adventures*. Possibly the lowest selling game in the series, this multiplayer-focused entry may, in fact, be the missing link for all of these disparate threads. Without going in-depth about it, there is credible evidence to suppose that during development, *this* was meant to tell the story of the Imprisoning War, or at least some part of it.[^fsa] There are elements of sages, seals, Royal Knights, and dark realms, all things that mesh perfectly with the eras of both *Ocarina of Time* and *A Link to the Past*; Ganon even acquires a trident, which he also wields prominently in *A Link to the Past*. Much of this deep story, though, was cut for the game's final release, so the analysis I'm laying out is merely hypothetical. Since Ganondorf is extinguished at the finale of the *Twilight Princess*, and *Four Swords Adventures* includes a surprise resurrection of Ganondorf, we can readily place *Twilight Princess* prior to *Four Swords Adventures*. And then, suddenly, it flows (other games still omitted):
 
 **Initial Narrative**
+
 - *Ocarina of Time*
 	- An independent tale, concluding with sealing Ganon away
 
 **Child Timeline**
+
 -  *Twilight Princess*
 	- Link defeats Ganon who has escaped from the seal
 -  *Four Swords Adventures*
@@ -78,6 +80,7 @@ Why? Let me describe, again briefly, an oft-forgotten title released in between 
 	- Link embarks on a quest to find the Triforce of Courage
 
 **Adult Timeline**
+
 -  *The Wind Waker*
 	- Many years after the defeat of Ganon, his darkness returns once again and the goddesses decide to flood Hyrule, generating the Great Sea
 

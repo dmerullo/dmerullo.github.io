@@ -3,6 +3,7 @@
 There isn't really anything quite like it. The Voynich Manuscript is a book written in an unknown script, apparently inscribing an unknown language, filled with lavish illustrations of unidentified contraptions, scenes, and schematics that defy all attempts at understanding. The manuscript has been carbon-dated to approximately 1404-1438,  is named after Wilfrid Voynich, one of its owners who helped bring it to prominence in the early 1900s, and has now rested in Yale University's Beinecke Rare Book and Manuscript Library since 1969. I've been aware of this document for more than half my life now, and I return it to more frequently than may be impressive to admit; there is something about it that singularly captures my attention. I just want to know what it says.[^wonder] Today, after a flash of insight, not of application, I think I do. 
 
 ![](files/vms-1.png)
+
 *An example of the unknown script and similarly unknown illustrations.*
 
  Like all great discoveries nowadays, I was toying around with creative, far-fetched ideas of speculative cognition with ChatGPT. I asked it to imagine advanced, super-intelligent sauropsid beings (the taxonomic group containing reptiles and birds) that had leveraged their unique brain structure to decipher the Voynich manuscript through deep mathematical and quantum mechanical methods. The large language model gave an illuminating answer and one that I did not expect. It didn't simply reveal what the manuscript says-- that would be too easy, wouldn't it?-- and instead concluded that the journey of understanding the manuscript served, for these higher beings, as a unifying symbol of ultimate meta-conscious awareness. Circuitous, sure, yet entertaining nonetheless.
@@ -15,8 +16,8 @@ The manuscript's first known mention is in a letter from someone named George Ba
 
 > As for the book filled with some sort of mysterious steganography which you enclosed with your letter, I have looked at it and have concluded that it requires application rather than insight in its solver. I can recall solving many writings of this kind when the occasion presented itself, and the itch of my mind working would have tried out some ideas on it if only many very urgent tasks did not call me away from unsuitable work of this kind. However, when I have more free time and can take advantage of a more suitable moment, I expect I shall try to solve it when the mood and inspiration take me.
 
-
 ![](files/vms-2.png)
+
 *Wilfrid Voynich (1865-1930), left, a Polish book dealer who tried searching for answers. Athanasius Kircher (1602-1680), right, a Jesuit scholar in the Holy Roman Empire who claimed to read Egyptian hieroglyphs.*
 
 Baresch had clearly reached out to Kircher out of respect and perceived expertise, and Kircher didn't see it worth his time. This alone could be enough to dismiss the value of the manuscript-- why wouldn't a man like Kircher have wanted to solve it, unless documents like this weren't that noteworthy back then? Filtering out signal from noise is an age-old problem, after all. He clearly mentions much other more *important* work he has to do, without defining what that is. What we do know, though, is that Kircher received part of this manuscript and brushed it off, almost certainly due to the reputation, or lack thereof, of the document or the sender itself.
@@ -42,6 +43,7 @@ Sounds a bit like where Kircher found himself, doesn't it?
 One thing that captivates me so much about the manuscript is that it's so darn passionate. Someone (or someones) spent a *lot* of time on this. Even if it's just gibberish in the end, it has to have taken the form of an obsession for the author. So let's imagine a particular scenario, and we'll see if you can then read the manuscript the same way I do now.
 
 ![](files/vms-3.png)
+
 *I think I'm most intrigued by the intricate diagrams and figures, which seem to indicate they hold some deep, explanatory meaning.*
 
 There's a person in medieval Europe who's a bit curious about the world. They're reading interesting reports about far-off lands described and fantastic things uncovered, pondering about all the machinations of Nature and the gods, captivated by the conjunction of the elements and the eternal fire beyond us all. Maybe they try a mind-altering substance that brings them to a wholly new place-- or there's no substance as the spark, but an ineffable exploration of the mind, however encountered in waking or dreaming, or some other state-- and they just *have* to write this down, and they really, *really* want to share it. So they do. They trace out all the pictures, fill in color in between the lines (well, sometimes, at least), and record it all. There-- Newton's Principia before classical physics, Kant's Critique of Pure Reason before rationalism and empiricism have even gone to battle-- is the Tome of All Knowledge. 
@@ -69,6 +71,7 @@ I'm talking about relationships. Situations where success wasn't driven solely b
 The Voynich Manuscript is a lesson that without multipliers, our efforts may as well be meaningless. Sure, in the case of the manuscript, it may in fact *be* meaningless-- it might not say anything in the end.[^generation] But I think it really says something. It says that you can't work alone, or in constant conflict, so confident in your own abilities, to the exclusion of all potential collaborators, and come out re-making knowledge. Of course, there will always be instances of solo contributors who manage to leave outsized impact, but these are the exceptions, not the rules. For the rest of us, whether stuck in medieval Europe or not, we're going to need some help. 
 
 ![](files/vms-4.png)
+
 *Your guess is as good as mine.*
 
 I get now what the Voynich Manuscript says, in a way that might not satisfy all the code-crackers and linguists out there. Its enigmatic script doesn't say anything, and yet it says everything. Your communication needs to include connection: otherwise, with any luck, people may only someday debate not what you said, but whether you said anything at all.[^impact] 

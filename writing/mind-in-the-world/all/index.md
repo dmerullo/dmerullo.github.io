@@ -2,7 +2,7 @@
 
 To my mother,
 
-who had a most creative mind
+who had a most creative mind.
 
 1961-2025
 
