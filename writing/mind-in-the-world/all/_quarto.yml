@@ -29,3 +29,4 @@ format:
     number-sections: true
     page-layout: full
     merge: true
+    css: styles.css
