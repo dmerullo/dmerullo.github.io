@@ -1,9 +1,9 @@
-h1 {
-  margin-bottom: 1.2em;
+#title-block-header h1.title {
+  margin-bottom: 1.25rem !important;
 }
 
 @media (max-width: 576px) {
-  h1 {
-    margin-bottom: 1.5rem !important;
+  #title-block-header h1.title {
+    margin-bottom: 1.6rem !important;
   }
 }
