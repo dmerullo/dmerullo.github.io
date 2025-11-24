@@ -4,6 +4,6 @@
 
 @media (max-width: 576px) {
   #title-block-header h1.title {
-    margin-bottom: 1.6rem !important;
+    margin-bottom: 0.5rem !important;
   }
 }
