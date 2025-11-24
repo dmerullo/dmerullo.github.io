@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: docs/writing/mind-in-the-world
+  output-dir: ../../../docs/writing/mind-in-the-world/_book
 
 book:
   title: "Mind in the World"
