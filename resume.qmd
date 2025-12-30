@@ -22,24 +22,28 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 
 ### EXPERIENCE
 
-**Associate Consultant** (Jul. 2025 – Present)\
+**Associate Consultant, Biomedical Data Science** (Jul. 2025 – Present)\
 **ZS Associates**  (Boston, MA)
 
-- Design and deliver solutions for clients across the life sciences including bioinformatics, pharmaceuticals, biotechnology, and biomedical research
-
-**Senior Bioinformatics Scientist** (Jan. 2022 – Oct. 2024)\
+**Senior Scientist, Bioinformatics** (Jan. 2022 – Oct. 2024)\
 **Parexel International**  (Remote)
 
 - Streamlined latency of data delivery by 10x for a major pharmaceutical client by developing novel data ingestion pipelines in R, Python, and Bash to drive biomarker discovery
 - Collaborated across bioinformatics and data engineering teams to deliver 1000s of genomic datasets (GWAS & eQTL) scaling to terabytes in size, integrating data and metadata from UK Biobank, 1000 Genomes Project, FinnGen, Open Targets, GWAS Catalog, and more
 - Automated high-throughput quality control workflows to enable 24-hour client turnaround
 
-**Postdoctoral Researcher** (Jun. 2018 – Jan. 2022) \
+**Postdoctoral Researcher, Neuroscience** (Jun. 2018 – Jan. 2022) \
 **University of Texas Southwestern Medical Center**  (Dallas, TX)
   
-- Led a multi-group collaboration to publish novel single-cell RNA-seq datasets in neurobiology, resulting in a co-first-author paper in *Science* (145+ citations) and a second-author paper in *Nature Communications* (30+ citations)
-- Independently analyzed large-scale single-cell RNA-seq data by applying computational pipelines, dataset integration, unsupervised clustering (k-nearest neighbor + Louvain method), and statistical modeling
+- Led a multi-group collaboration to publish large-scale single-cell RNA-seq datasets in neurobiology, producing a co-first-author paper in *Science* (145+ citations) and a second-author paper in *Nature Communications* (30+ citations)
+- Independently analyzed large-scale single-cell RNA-seq data by applying computational pipelines, dataset integration, unsupervised clustering, and statistical modeling for 20,000 genes in 200,000+ cells across multiple brain regions, species, and cell types
 - Delivered spatial transcriptomics capabilities to research group, encompassing molecular library preparation, data and analytics pipelines, documentation, and training for new users
+
+**Graduate Researcher, Integrative Biology** (Sep. 2013 – May 2018) \
+**University of Wisconsin-Madison** (Madison, WI)
+
+- Produced five first-author publications, five conference poster presentations, and a nationally-competitive NSF Graduate Research Fellowship
+- Applied multiple linear regression techniques to analyze gene expression, protein labeling, and behavioral data from molecular biology experiments in neuroscience (quantitative PCR, in situ hybridization, immunohistochemistry, and confocal microscopy)
 
 ### INDEPENDENT PROJECTS
 
