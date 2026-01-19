@@ -6,7 +6,7 @@ title: "Resume"
 
 ### SUMMARY
 
-Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data pipeline development, and high-dimensional analytics. Experienced in next-generation sequencing analysis (bulk, single-cell, spatial), multi-omic data integration, scalable workflow automation, statistical and AI-driven modeling, and data visualization. Effective collaborator and communicator with a track record of delivering results and developing solutions across teams and stakeholders.
+Biomedical data scientist experienced in building products and solutions for drug discovery. With expertise in data science and the life sciences, collaborates across teams to deliver workflows that streamline drug development. Projects include large language models (LLMs) for scientific knowledge applications, scalable data pipelines for genomic data integration, AI/ML techniques to generate insights from large-scale bioinformatics data, and user-focused data visualization and communication.
 
 ### EDUCATION
 
@@ -15,10 +15,11 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 
 ### TECHNICAL SKILLS
 
-- **Programming:** R, Python, Bash, SQL, Julia, Git, Markdown, LaTeX
-- **NGS Analysis:** bulk RNA-seq, single-cell RNA-seq, spatial transcriptomics, clustering (graph-based, partition-based, hierarchical), dimensionality reduction (PCA, UMAP, t-SNE), differential expression analysis, linear modeling, 10x Genomics (Chromium, Visium, Cell Ranger, Space Ranger), Seurat
-- **Libraries:** tidyverse, ggplot2, shiny, quarto, pandas, Numpy, SciPy, scikit-learn, Plotly, Dash
-- **HPC/Cloud Computing:** Linux, GCP, AWS, HDFS
+- **AI/ML:** LLMs, knowledge extraction, automated data interpretation, AI-driven evaluation and prioritization, unsupervised clustering, dimensionality reduction (PCA, UMAP, t-SNE)
+- **Programming:** Python, R, Bash, SQL, Git, Markdown
+- **Libraries:** pandas, NumPy, SciPy, scikit-learn, Plotly, Dash, tidyverse, ggplot2, Shiny, Quarto
+- **HPC & Cloud:** Linux, GCP, AWS, HDFS
+- **Bioinformatics:** single-cell RNA sequencing, spatial transcriptomics, linear modeling, differential gene expression analysis, 10x Genomics (Chromium, Visium, Cell Ranger, Space Ranger), Seurat
 
 ### EXPERIENCE
 
@@ -28,22 +29,22 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 **Senior Scientist, Bioinformatics** (Jan. 2022 – Oct. 2024)\
 **Parexel International**  (Remote)
 
-- Streamlined latency of data delivery by 10x for a major pharmaceutical client by developing novel data ingestion pipelines in R, Python, and Bash to drive biomarker discovery
+- Improved latency of data delivery by 10x for a major pharmaceutical client by developing novel data ingestion pipelines in R, Python, and Bash to drive biomarker discovery
 - Collaborated across bioinformatics and data engineering teams to deliver 1000s of genomic datasets (GWAS & eQTL) scaling to terabytes in size, integrating data and metadata from UK Biobank, 1000 Genomes Project, FinnGen, Open Targets, GWAS Catalog, and more
 - Automated high-throughput quality control workflows to enable 24-hour client turnaround
 
 **Postdoctoral Researcher, Neuroscience** (Jun. 2018 – Jan. 2022) \
 **University of Texas Southwestern Medical Center**  (Dallas, TX)
   
-- Led a multi-group collaboration to publish large-scale single-cell RNA-seq datasets in neurobiology, producing a co-first-author paper in *Science* (145+ citations) and a second-author paper in *Nature Communications* (30+ citations)
-- Independently analyzed large-scale single-cell RNA-seq data by applying computational pipelines, dataset integration, unsupervised clustering, and statistical modeling for 20,000 genes in 200,000+ cells across multiple brain regions, species, and cell types
+- Led a multi-group collaboration to publish large-scale single-cell RNA sequencing datasets in neuroscience, producing a co-first-author paper in *Science* (145+ citations), a second-author paper in *Nature Communications* (30+ citations), and a nationally-competitive NIH Postdoctoral Fellowship (F32)
+- Independently analyzed single-cell RNA sequencing data by applying computational pipelines, dataset integration, unsupervised clustering, and statistical modeling for 20,000 genes in 200,000+ cells across multiple brain regions, species, and cell types
 - Delivered spatial transcriptomics capabilities to research group, encompassing molecular library preparation, data and analytics pipelines, documentation, and training for new users
 
 **Graduate Researcher, Integrative Biology** (Sep. 2013 – May 2018) \
 **University of Wisconsin-Madison** (Madison, WI)
 
-- Produced five first-author publications, five conference poster presentations, and a nationally-competitive NSF Graduate Research Fellowship
-- Applied multiple linear regression techniques to analyze gene expression, protein labeling, and behavioral data from molecular biology experiments in neuroscience (quantitative PCR, in situ hybridization, immunohistochemistry, and confocal microscopy)
+- Produced 5 first-author publications, 5 conference poster presentations, and a nationally-competitive NSF Graduate Research Fellowship
+- Applied multiple linear regression techniques to analyze gene expression, protein labeling, and behavioral data from molecular biology experiments in neuroscience (quantitative PCR, *in situ* hybridization, immunohistochemistry, and confocal microscopy)
 
 ### INDEPENDENT PROJECTS
 
@@ -53,7 +54,7 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 - Developed an unsupervised clustering (k-means) pipeline in Python to classify poems into 4 difficultly levels based on verb usage
 - Built an interactive Plotly Dash web application for text exploration and visualization
   
-### SELECTED PUBLICATIONS (700+ citations total)
+### SELECTED PUBLICATIONS (12 total; 750+ citations total)
 
 - Colquitt, B. M.\*, <strong>Merullo, D. P.\*</strong>, Konopka, G., Roberts, T. F., & Brainard, M. S. (2021). Cellular transcriptomics reveals evolutionary identities of songbird vocal circuits. *Science*, 371(6530), eabd9704. <strong>*co-first author</strong>
 
@@ -63,10 +64,4 @@ Ph.D.-trained biomedical data scientist with expertise in bioinformatics, data p
 
 - **Merullo, D. P.**, Asogwa, C. N., Sanchez-Valpuesta, M., Hayase, S., Pattnaik, B. R., Wada, K., & Riters, L. V. (2018). Neurotensin and neurotensin receptor 1 mRNA expression in song-control regions changes during development in male zebra finches. *Developmental Neurobiology*, 78(7), 671–686.
 
-- **Merullo, D. P.**, Spool, J. A., Zhao, C., & Riters, L. V. (2018). Co-localization patterns of neurotensin receptor 1 and tyrosine hydroxylase in brain regions involved in motivation and social behavior in male European starlings. *Journal of Chemical Neuroanatomy*, 89, 1–10.
-
-- **Merullo, D. P.**, Angyal, C. S., Stevenson, S. A., & Riters, L. V. (2016). Song in an affiliative context relates to the neural expression of dopamine- and neurotensin-related genes in male European starlings. *Brain, Behavior and Evolution*, 88, 81–92.
-
-- **Merullo, D. P.**, Cordes, M. A., DeVries, M. S., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin neural mRNA expression correlates with vocal communication and other highly-motivated social behaviors in male European starlings. *Physiology and Behavior*, 151, 155–161.
-
-- **Merullo, D. P.**, Cordes, M. A., Stevenson, S. A., & Riters, L. V. (2015). Neurotensin immunolabeling relates to sexually-motivated song and other social behaviors in male European starlings (Sturnus vulgaris). *Behavioural Brain Research*, 282, 133–143.
+- **Merullo, D. P.**, Angyal, C. S., Stevenson, S. A., & Riters, L. V. (2016). Song in an affiliative context relates to the neural expression of dopamine- and neurotensin-related genes in male European starlings. *Brain, Behavior and Evolution*, 88, 81–92
