@@ -11,7 +11,7 @@ text-align: justify}
 
 ![](files/picture.png){fig-align="center" width="40%"}
 
-I am a biomedical data scientist experienced in building products and solutions for drug discovery. With expertise in data science and the life sciences, I collaborate across teams to deliver workflows that streamline drug development. My projects have incorporated large language models (LLMs) for scientific knowledge applications, scalable data pipelines for genomic data integration, AI/ML techniques to generate insights from large-scale bioinformatics data, and user-focused data visualization and communication.
+I am a biomedical data scientist experienced in building products and solutions for drug discovery. I collaborate across teams and disciplines to deliver scalable, AI-enabled workflows that streamline drug development. My projects have incorporated LLMs for scientific knowledge applications, automated data pipelines for genomic data integration, ML techniques to identify structure in high-dimensional bioinformatics data, and user-focused data visualization and communication to guide decisions.
 
 {{< iconify carbon:email size=xl >}} dmerullo [at] protonmail [dot] com\
 {{< iconify carbon:logo-linkedin size=xl >}} [linkedin.com/dmerullo](https://www.linkedin.com/in/dmerullo){target="_blank"} \
