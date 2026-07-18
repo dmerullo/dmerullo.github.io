@@ -47,7 +47,8 @@ Data scientist experienced in developing analytical tools and workflows for drug
 ### INDEPENDENT PROJECTS
 
 **Project ESPAÑOL: An Exploration Of Spanish-language Poetry And Nuances Of Language** \
-2024 — [https://github.com/dmerullo/project-espanol](https://github.com/dmerullo/project-espanol){target="_blank"}
+2024 — [https://github.com/dmerullo/project-espanol](https://github.com/dmerullo/project-espanol){target="_blank"} \
+[https://github.com/dmerullo/project-espanol](https://github.com/dmerullo/project-espanol){target="_blank"} (2024)
 
 - Generated a dataset of 10,000+ Spanish-language poems (>2.5 million words) using high-throughput web scraping (rvest)
 - Developed an unsupervised clustering pipeline in Python to classify poems into 4 difficultly levels based on verb usage

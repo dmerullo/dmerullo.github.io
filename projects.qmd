@@ -11,9 +11,13 @@ text-align: justify}
 
 After some time, I realized that most of my projects explore how the representation of information shapes the function of systems by enabling certain interpretations and behaviors while constraining others. Regardless of the domain, I'll probably always come back to this question. 
 
+# A structured knowledge pipeline for scienific discovery
+
+Just like the universe, available information keeps expanding. Yet identifying meaningful insights only becomes harder without the proper navigation tools. [Crystal](https://github.com/dmerullo/crystal-pipeline/){target="_blank"} transforms unstructured text into a queryable knowledge graph, surfacing non-obvious relationships, patterns, and potential knowledge gaps to guide hypothesis generation across fields that may otherwise remain disconnected or overlooked by individual researchers.
+
 # Natural language and data science
 
-I developed [Project ESPAÑOL](https://github.com/dmerullo/project-espanol){target="_blank"}, an application that leverages high-dimensional analysis of classical Spanish-language poems to create custom lesson plans and guide discovery of new texts for practice and study. Using high-throughput web scraping, I generated a dataset of 10,000 Spanish-language poems in the public domain (totaling 2.5 million words), and then ran an unsupervised clustering algorithm in Python to group the poems into difficulty levels by analyzing verb frequencies and grammatical tenses. I built [an interactive Plotly Dash application](http://dmerullo.pythonanywhere.com/){target="_blank"} to view the full texts, metadata, and grammatical statistics.
+I developed [Project ESPAÑOL](https://github.com/dmerullo/project-espanol/){target="_blank"}, an application that leverages high-dimensional analysis of classical Spanish-language poems to create custom lesson plans and guide discovery of new texts for practice and study. Using high-throughput web scraping, I generated a dataset of 10,000 Spanish-language poems in the public domain (totaling 2.5 million words), and then ran an unsupervised clustering algorithm in Python to group the poems into difficulty levels by analyzing verb frequencies and grammatical tenses. I built [an interactive Plotly Dash application](http://dmerullo.pythonanywhere.com/){target="_blank"} to view the full texts, metadata, and grammatical statistics.
 
 # Biomarkers and genomic medicine
 
