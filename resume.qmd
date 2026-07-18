@@ -46,9 +46,15 @@ Data scientist experienced in developing analytical tools and workflows for drug
 
 ### INDEPENDENT PROJECTS
 
+**Crystal: A structured knowledge pipeline for scientific discovery** \
+2026 — [https://dmerullo.github.io/crystal-pipeline](https://github.com/dmerullo/crystal-pipeline){target="_blank"}
+
+- Applied LLMs to transform unstructured text from scientific publications into a graph representation of concepts and relationships, surfacing structural connections and knowledge gaps not seen in keyword search and citation networks
+- Validated the approach against neuroscience literature, using domain expertise to confirm results (e.g., SRPX2 & SLIT1 in sensorimotor learning) as genuine knowledge gaps
+- Generalized the architecture into a domain-agnostic system, demonstrating applicability to recommendation and discovery problems more broadly
+
 **Project ESPAÑOL: An Exploration Of Spanish-language Poetry And Nuances Of Language** \
-2024 — [https://github.com/dmerullo/project-espanol](https://github.com/dmerullo/project-espanol){target="_blank"} \
-[https://github.com/dmerullo/project-espanol](https://github.com/dmerullo/project-espanol){target="_blank"} (2024)
+2024 — [https://github.com/dmerullo/project-espanol](https://github.com/dmerullo/project-espanol){target="_blank"}
 
 - Generated a dataset of 10,000+ Spanish-language poems (>2.5 million words) using high-throughput web scraping (rvest)
 - Developed an unsupervised clustering pipeline in Python to classify poems into 4 difficultly levels based on verb usage

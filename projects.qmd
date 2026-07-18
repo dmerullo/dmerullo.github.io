@@ -13,7 +13,7 @@ After some time, I realized that most of my projects explore how the representat
 
 # A structured knowledge pipeline for scientific discovery
 
-Just like the universe, available information keeps expanding. Yet identifying meaningful insights only becomes harder without the proper navigation tools. [Crystal](https://github.com/dmerullo/crystal-pipeline/){target="_blank"} transforms unstructured text into a queryable knowledge graph, surfacing non-obvious relationships, patterns, and potential knowledge gaps to guide hypothesis generation across fields that may otherwise remain disconnected or overlooked by individual researchers.
+Just like the universe, available information keeps expanding. Yet identifying meaningful insights only becomes harder without the proper navigation tools. [Crystal](https://dmerullo.github.io/crystal-pipeline/){target="_blank"} transforms unstructured text into a queryable knowledge graph, surfacing non-obvious relationships, patterns, and potential knowledge gaps to guide hypothesis generation across fields that may otherwise remain disconnected or overlooked by individual researchers.
 
 # Natural language and data science
 
