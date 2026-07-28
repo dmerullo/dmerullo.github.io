@@ -47,7 +47,7 @@ Data scientist experienced in developing analytical tools and workflows for drug
 ### INDEPENDENT PROJECTS
 
 **Crystal: A structured knowledge pipeline for scientific discovery** \
-2026 — [https://dmerullo.github.io/crystal-pipeline](https://github.com/dmerullo/crystal-pipeline){target="_blank"}
+2026 — [https://dmerullo.github.io/crystal-pipeline](https://dmerullo.github.io/crystal-pipeline){target="_blank"}
 
 - Applied LLMs to transform unstructured text from scientific publications into a graph representation of concepts and relationships, surfacing structural connections and knowledge gaps not seen in keyword search and citation networks
 - Validated the approach against neuroscience literature, using domain expertise to confirm results (e.g., SRPX2 & SLIT1 in sensorimotor learning) as genuine knowledge gaps
