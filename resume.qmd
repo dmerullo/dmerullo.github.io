@@ -53,12 +53,12 @@ Data scientist experienced in developing analytical tools and workflows for drug
 - Validated the approach against neuroscience literature, using domain expertise to confirm results (e.g., SRPX2 & SLIT1 in sensorimotor learning) as genuine knowledge gaps
 - Generalized the architecture into a domain-agnostic system, demonstrating applicability to recommendation and discovery problems more broadly
 
-**Project ESPAÑOL: An Exploration Of Spanish-language Poetry And Nuances Of Language** \
-2024 — [https://github.com/dmerullo/project-espanol](https://github.com/dmerullo/project-espanol){target="_blank"}
+**Project ESPAÑOL: Exploring Spanish-language Poetry And Nuances Of Language** \
+2024 — [https://dmerullo.github.io/project-espanol](https://dmerullo.github.io/project-espanol/){target="_blank"}
 
 - Generated a dataset of 10,000+ Spanish-language poems (>2.5 million words) using high-throughput web scraping (rvest)
 - Developed an unsupervised clustering pipeline in Python to classify poems into 4 difficultly levels based on verb usage
-- Built an interactive Plotly Dash web application enabling language learners to explore and identify level-appropriate Spanish texts
+- Built an interactive web application enabling language learners to explore and identify level-appropriate Spanish texts
   
 ### SELECTED PUBLICATIONS (2 of 12; 800+ citations total)
 
