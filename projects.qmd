@@ -19,9 +19,9 @@ Just like the universe, available information keeps expanding. Yet identifying m
 
 [Project ESPAÑOL](https://dmerullo.github.io/project-espanol/){target="_blank"} (2024) leverages high-dimensional analysis of classical Spanish-language poems to create custom lesson plans and guide discovery of new texts for practice and study. Using high-throughput web scraping, I generated a dataset of 10,000 Spanish-language poems in the public domain (totaling 2.5 million words), and then ran an unsupervised clustering algorithm in Python to group the poems into difficulty levels by analyzing verb frequencies and grammatical tenses. I built [an interactive application](https://dmerullo.github.io/project-espanol/){target="_blank"} to view the full texts, metadata, and grammatical statistics.
 
-# Technical presentation of creative non-fiction writing
+# Computational publishing for creative non-fiction
 
-[Mind in the World](https://dmerullo.github.io/mind-in-the-world/){target="_blank"} (2025) is an essay collection exploring science, philosophy, and the experience of being human today. I wanted to write about aspects of life that don't seem reducible to mechanistic frameworks, translating concepts from my background in neuroscience research to a non-technical audience. I used Markdown and Quarto to create an interactive experience incorporating hyperlinks and footnotes throughout, with references to non-traditional sources like YouTube videos and blog posts. Most, but not all, of this project was written during a time where I was on a plane for 3 hours twice a week.
+[Mind in the World](https://dmerullo.github.io/mind-in-the-world/){target="_blank"} (2025) is an essay collection exploring science, philosophy, and the experience of being human today. I wanted to write about aspects of life that don't feel reducible to mechanistic frameworks, conveying concepts from my background in neuroscience research to a non-technical audience. I used Markdown, Obsidian, and Quarto to produce an interactive technical presentation that incorporates hyperlinks, footnotes, and references from across the Web and YouTube. I wrote most of this during a time when I was on a plane for 3+ hours twice a week, over several months.
 
 # Biomarkers and genomic medicine
 
