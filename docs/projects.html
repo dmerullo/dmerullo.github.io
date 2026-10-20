@@ -116,7 +116,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#llm-based-extraction-and-graph-analysis" id="toc-llm-based-extraction-and-graph-analysis" class="nav-link active" data-scroll-target="#llm-based-extraction-and-graph-analysis">LLM-based extraction and graph analysis</a></li>
   <li><a href="#computational-linguistics-and-machine-learning" id="toc-computational-linguistics-and-machine-learning" class="nav-link" data-scroll-target="#computational-linguistics-and-machine-learning">Computational linguistics and machine learning</a></li>
   <li><a href="#computational-publishing-for-creative-non-fiction" id="toc-computational-publishing-for-creative-non-fiction" class="nav-link" data-scroll-target="#computational-publishing-for-creative-non-fiction">Computational publishing for creative non-fiction</a></li>
-  <li><a href="#biomarkers-and-genomic-medicine" id="toc-biomarkers-and-genomic-medicine" class="nav-link" data-scroll-target="#biomarkers-and-genomic-medicine">Biomarkers and genomic medicine</a></li>
   <li><a href="#neural-cell-types-and-circuits-for-vocal-learning" id="toc-neural-cell-types-and-circuits-for-vocal-learning" class="nav-link" data-scroll-target="#neural-cell-types-and-circuits-for-vocal-learning">Neural cell types and circuits for vocal learning</a></li>
   <li><a href="#neuromodulators-of-motivation-and-reward-in-vocal-communication" id="toc-neuromodulators-of-motivation-and-reward-in-vocal-communication" class="nav-link" data-scroll-target="#neuromodulators-of-motivation-and-reward-in-vocal-communication">Neuromodulators of motivation and reward in vocal communication</a></li>
   </ul>
@@ -159,19 +158,6 @@ text-align: justify}
 <section id="computational-publishing-for-creative-non-fiction" class="level1">
 <h1>Computational publishing for creative non-fiction</h1>
 <p><a href="https://dmerullo.github.io/mind-in-the-world/" target="_blank">Mind in the World</a> (2025) is an essay collection exploring science, philosophy, and the experience of being human today. I wanted to write about aspects of life that don’t feel reducible to mechanistic frameworks, conveying concepts from my background in neuroscience research to a non-technical audience. I used Markdown, Obsidian, and Quarto to produce an interactive technical presentation that incorporates hyperlinks, footnotes, and references from across the Web and YouTube. I wrote most of this during a time when I was on a plane for 3+ hours twice a week, over several months.</p>
-</section>
-<section id="biomarkers-and-genomic-medicine" class="level1">
-<h1>Biomarkers and genomic medicine</h1>
-<p><em>at <a href="https://en.wikipedia.org/wiki/Parexel" target="_blank">Parexel International</a></em></p>
-<p>At a clinical research organization for a major pharmaceutical client, I performed data ingestion and developed ETL pipelines for external genomic data integration (primarily GWAS &amp; eQTL data). I wrote pipelines in R, Python, and Bash to streamline data ingestion according to the client’s specific data and metadata standards. With fluency in techniques from both bioinformatics and data science, I bridged the scientific analysts who required management of this data at scale, and the data engineers who lacked familiarity with bioinformatics methods and resources.</p>
-<p><em>Example of open-source tool created:</em></p>
-<ul>
-<li><a href="https://github.com/dmerullo/rsid-liftover-to-hg38" target="_blank">SPUR: SNP Position Update from rsIDs</a> (2023)
-<ul>
-<li>A pipeline to lift over genomic coordinates from datasets on older builds of the human genome only containing rsIDs</li>
-<li>SPUR first identifies the rsIDs in the original data that map to the current dbSNP build without issue, and those that do not. Then, SPUR differentiates between the non-mapping rsIDs that have been merged to a different rsID in the current build, and the rsIDs that have been dropped completely. Finally, SPUR updates the SNP positions in the original dataset by linking the mapped and merged rsIDs with current genome positions.</li>
-</ul></li>
-</ul>
 </section>
 <section id="neural-cell-types-and-circuits-for-vocal-learning" class="level1">
 <h1>Neural cell types and circuits for vocal learning</h1>

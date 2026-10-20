@@ -23,18 +23,6 @@ Just like the universe, available information keeps expanding. Yet identifying m
 
 [Mind in the World](https://dmerullo.github.io/mind-in-the-world/){target="_blank"} (2025) is an essay collection exploring science, philosophy, and the experience of being human today. I wanted to write about aspects of life that don't feel reducible to mechanistic frameworks, conveying concepts from my background in neuroscience research to a non-technical audience. I used Markdown, Obsidian, and Quarto to produce an interactive technical presentation that incorporates hyperlinks, footnotes, and references from across the Web and YouTube. I wrote most of this during a time when I was on a plane for 3+ hours twice a week, over several months.
 
-# Biomarkers and genomic medicine
-
-*at [Parexel International](https://en.wikipedia.org/wiki/Parexel){target="_blank"}*
-
-At a clinical research organization for a major pharmaceutical client, I performed data ingestion and developed ETL pipelines for external genomic data integration (primarily GWAS & eQTL data). I wrote pipelines in R, Python, and Bash to streamline data ingestion according to the client's specific data and metadata standards. With fluency in techniques from both bioinformatics and data science, I bridged the scientific analysts who required management of this data at scale, and the data engineers who lacked familiarity with bioinformatics methods and resources.
-
-*Example of open-source tool created:*
-
-- [SPUR: SNP Position Update from rsIDs](https://github.com/dmerullo/rsid-liftover-to-hg38){target="_blank"} (2023)
-  - A pipeline to lift over genomic coordinates from datasets on older builds of the human genome only containing rsIDs
-  - SPUR first identifies the rsIDs in the original data that map to the current dbSNP build without issue, and those that do not. Then, SPUR differentiates between the non-mapping rsIDs that have been merged to a different rsID in the current build, and the rsIDs that have been dropped completely. Finally, SPUR updates the SNP positions in the original dataset by linking the mapped and merged rsIDs with current genome positions.
-
 # Neural cell types and circuits for vocal learning
 
 *at [University of Texas Southwestern Medical Center](https://en.wikipedia.org/wiki/University_of_Texas_Southwestern_Medical_Center){target="_blank"} in the [Roberts lab](https://labs.utsouthwestern.edu/roberts-lab){target="_blank"} and [Konopka lab](https://konopkalab.org/){target="_blank"}*
