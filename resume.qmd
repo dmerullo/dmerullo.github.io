@@ -22,8 +22,16 @@ Data scientist experienced in developing analytical tools and workflows for drug
 
 ### EXPERIENCE
 
-**Associate Consultant, Decision Analytics** (Jul. 2025 – Present)\
+**Product Manager, Clinical Operations** (Nov. 2026 – Present)\
+**Veeva Systems** (Remote)
+
+**Associate Consultant, Decision Analytics** (Jul. 2025 – Nov. 2026)\
 **ZS Associates**  (Boston, MA)
+
+- Led early-user testing of an LLM application for a top biomedical client, enabling prioritization of 1000s of target genes for therapeutic development
+- Guided engineering priorities by synthesizing feedback across 20+ groups and 8 research centers, advancing the tool from proof-of-concept to launch
+- Conducted training sessions and live demos for 5 AI/LLM applications supporting scientific workflows, reaching a user base of 1000s across the organization
+- Developed analytics pipelines to track and interpret product usage metrics (KPIs), translating findings directly to program leadership to inform product roadmap decisions
 
 **Senior Scientist, Bioinformatics** (Jan. 2022 – Oct. 2024)\
 **Parexel International**  (Remote)
